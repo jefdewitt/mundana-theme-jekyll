@@ -1,0 +1,25 @@
+.paintings-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paintings-container a {
+    margin-bottom: 2em;
+}
+
+img {
+    max-height: 20em;
+}
+
+@media (min-width: 576px) {
+    .paintings-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    img {
+        max-height: 10em;
+    }
+}

@@ -125,7 +125,7 @@ $(function() {
   });
 
   function smoothScrollTo(target) {
-    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    target = target.length ? target : $('[name=' + location.hash.slice(1) +']');
 
     if (target.length) {
       $('html,body').animate({
@@ -134,3 +134,51 @@ $(function() {
     }
   }
 });
+
+/**
+ * Custom lightbox code shown below
+ */
+function closeLightbox(event) {
+    var element = event.target;
+    if (element.className === 'lightbox-img') {
+        event.stopPropagation();
+        return;
+    } else {
+        var closeBtn = document.querySelector('.lightbox-close-btn');
+        var lightboxBg = document.querySelector('.lightbox-bg');
+        var lightboxImg = document.querySelector('.lightbox-img');
+        closeBtn && closeBtn.remove();
+        lightboxBg && lightboxBg.remove();
+        lightboxImg && lightboxImg.remove();
+    }
+}
+
+function openLightbox(event) {
+    var imageContainer = event.target;
+    var imageSrc = imageContainer.getAttribute('src');
+
+    // create elements for lightbox -- bg, img, & close button
+    var lightboxContainer = document.createElement('div');
+    var lightboxImage = document.createElement('img');
+    var lightboxCloseButton = document.createElement('span');
+    
+    // close button
+    lightboxCloseButton.textContent = 'close';
+    lightboxCloseButton.classList.add('lightbox-close-btn');
+    lightboxCloseButton.addEventListener('click', closeLightbox, false);
+
+    // lightbox bg
+    lightboxContainer.classList.add('lightbox-bg')
+    lightboxContainer.style.top = window.scrollY + 'px';
+    lightboxContainer.appendChild(lightboxImage);
+    lightboxContainer.appendChild(lightboxCloseButton);
+    lightboxContainer.addEventListener('click', closeLightbox, false);
+
+    // lightbox img
+    lightboxImage.classList.add('lightbox-img')
+    lightboxImage.setAttribute('src', imageSrc);
+
+    // add the whole kit-n-kaboodle
+    document.body.appendChild(lightboxContainer);
+}
+
