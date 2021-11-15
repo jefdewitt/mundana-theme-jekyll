@@ -154,13 +154,15 @@ function closeLightbox(event) {
 }
 
 function openLightbox(event) {
-    var imageContainer = event.target;
-    var imageSrc = imageContainer.getAttribute('src');
+    let imageContainer = event.target;
+    let imageSrc = imageContainer.getAttribute('src');
+    let imageCap = imageContainer.nextElementSibling.textContent;
 
     // create elements for lightbox -- bg, img, & close button
-    var lightboxContainer = document.createElement('div');
-    var lightboxImage = document.createElement('img');
-    var lightboxCloseButton = document.createElement('span');
+    let lightboxContainer = document.createElement('div');
+    let lightboxImage = document.createElement('img');
+    let lightboxImageCaption = document.createElement('p');
+    let lightboxCloseButton = document.createElement('span');
     
     // close button
     lightboxCloseButton.textContent = 'close';
@@ -171,12 +173,17 @@ function openLightbox(event) {
     lightboxContainer.classList.add('lightbox-bg')
     lightboxContainer.style.top = window.scrollY + 'px';
     lightboxContainer.appendChild(lightboxImage);
+    lightboxContainer.appendChild(lightboxImageCaption);
     lightboxContainer.appendChild(lightboxCloseButton);
     lightboxContainer.addEventListener('click', closeLightbox, false);
 
     // lightbox img
     lightboxImage.classList.add('lightbox-img')
     lightboxImage.setAttribute('src', imageSrc);
+
+    // lightbox cap
+    lightboxImageCaption.classList.add('lightbox-img-cap')
+    lightboxImageCaption.textContent = imageCap;
 
     // add the whole kit-n-kaboodle
     document.body.appendChild(lightboxContainer);

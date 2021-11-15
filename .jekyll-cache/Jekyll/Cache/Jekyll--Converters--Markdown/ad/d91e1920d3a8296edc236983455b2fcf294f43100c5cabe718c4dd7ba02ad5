@@ -1,10 +1,4 @@
----
-title: "Paintings"
-layout: default
-permalink: "/paintings.html"
----
-
-<div class="container">
+I"ý<div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
       <h1 class="font-weight-bold title h6 text-uppercase mb-4">
@@ -24,11 +18,7 @@ permalink: "/paintings.html"
       <section class="paintings-section">
         {% assign image_files = site.data.paintings %} {% for myimage in
         image_files %}
-        <div
-          id="selected-image-{{forloop.index}}"
-          class="painting-container"
-          onclick="openLightbox(event)"
-        >
+        <div id="selected-image-{{forloop.index}}" class="painting-container" onclick="openLightbox(event)">
           <!-- {{myimage}} -->
           <img src="{{myimage.url}}" alt="" />
           <div class="painting-caption">
@@ -43,3 +33,4 @@ permalink: "/paintings.html"
     <div class="col-md-4">{% include sidebar-featured.html %}</div>
   </div>
 </div>
+:ET

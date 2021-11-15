@@ -1,25 +1,88 @@
-.paintings-container {
+img {
+    max-height: 20em;
+}
+
+.paintings-section {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.paintings-container a {
+.paintings-section a {
     margin-bottom: 2em;
 }
 
-img {
-    max-height: 20em;
+.painting-container {
+    text-align: center;
+    position: relative;
 }
 
+/* .painting-caption {
+    position: relative;
+} */
+
+.lightbox-bg {
+	position: absolute;
+    background: rgba(0, 0, 0, 0.9); /** doesn't pass on opacity to children **/
+	width: 100%;
+	height: 100%;
+	z-index: 10000;
+}
+
+.lightbox-img {
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 100000;
+    max-height: 80%;
+}
+
+.lightbox-img-cap {
+	position: absolute;
+    color: white;
+    bottom: 4%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 100000;
+    background: rgba(0,0,0,.7);
+    padding: 5px 10px;
+}
+
+.lightbox-close-btn {
+	position: absolute;
+	right: 2%;
+    bottom: 92%;
+	color: #fff;
+}
+
+
 @media (min-width: 576px) {
-    .paintings-container {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-around;
-    }
 
     img {
         max-height: 10em;
+    }
+
+    .paintings-section {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+    .painting-container {
+        max-width: 33%;
+        text-align: center;
+        padding: 0 5px;
+        min-height: 15em;
+    }
+
+    .fadeout {
+        height: 3em;
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        background: linear-gradient(
+        0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 100%);
     }
 }
