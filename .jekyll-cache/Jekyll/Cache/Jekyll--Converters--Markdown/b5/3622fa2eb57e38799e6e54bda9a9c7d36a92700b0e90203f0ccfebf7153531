@@ -1,79 +1,11 @@
-I"8?<div class="container">
+I"e1<div class="container">
+  <h4 class="font-weight-bold spanborder"><span>Paintings</span></h4>
   <div class="row justify-content-center">
     <div class="col-md-8">
-      <h1 class="font-weight-bold title h6 text-uppercase mb-4">
-        Painting Gallery
-      </h1>
 
-      <!-- <section class="paintings-section">
-            
-            
-                <div id="selected-image-1" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/1-vermont.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-2" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/10-ocean&sky.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-3" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/11-sadie.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-4" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/12-hallie.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-5" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/13-f&b.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-6" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/2-f.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-7" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/3-balloons.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-8" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/4-covered-bridge.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-9" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/5-sand-dollar.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-10" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/6-secret-canyon.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-11" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/7-old-oak-tree.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-12" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/8-j&f.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-                <div id="selected-image-13" onclick="openLightbox(event)">
-                  <img src="/assets/images/paintings/9-touch.jpeg" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            
-          </section> -->
+      <section class="paintings-introduction">
+        <p>I paint when I can. When I'm not feeling too lazy. It's fun making a mess. I've long felt shy about sharing my work. Here it is; for all the world to see and judge. Although literally 17 people have ever visited my site. Whatever.</p>
+      </section>
 
       <section class="paintings-section">
          
@@ -82,7 +14,7 @@
           <img src="../assets/images/paintings/1-vermont.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">This is a paiting of the Vermont countryside.</p>
+            <p>This is a paiting of the Vermont countryside.</p>
           </div>
         </div>
         
@@ -91,7 +23,7 @@
           <img src="../assets/images/paintings/2-f.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">This is the painting that gave me confidence to try portraits. Though it's a bit cartoon-ey, the shading isn't bad -- it gave me confidence.</p>
+            <p>This is the painting that gave me confidence to try portraits. Though it's a bit cartoon-ey, the shading isn't bad -- it gave me confidence.</p>
           </div>
         </div>
         
@@ -100,7 +32,7 @@
           <img src="../assets/images/paintings/3-balloons.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">These are balloons, ya goof!</p>
+            <p>These are balloons, ya goof!</p>
           </div>
         </div>
         
@@ -109,7 +41,7 @@
           <img src="../assets/images/paintings/4-covered-bridge.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">A covered bridge inspired by Woodstock, Vermont.</p>
+            <p>A covered bridge inspired by Woodstock, Vermont.</p>
           </div>
         </div>
         
@@ -118,7 +50,7 @@
           <img src="../assets/images/paintings/5-sand-dollar.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">The very first intact sand dollar I ever got from the ocean.</p>
+            <p>The very first intact sand dollar I ever got from the ocean.</p>
           </div>
         </div>
         
@@ -127,7 +59,7 @@
           <img src="../assets/images/paintings/6-secret-canyon.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">A narrow passaegway in Secret Canyon, Arizona.</p>
+            <p>A narrow passaegway in Secret Canyon, Arizona.</p>
           </div>
         </div>
         
@@ -136,7 +68,7 @@
           <img src="../assets/images/paintings/7-old-oak-tree.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">A large old, solitary oak tree. This was painted for my mother.</p>
+            <p>A large old, solitary oak tree. This was painted for my mother.</p>
           </div>
         </div>
         
@@ -145,7 +77,7 @@
           <img src="../assets/images/paintings/8-j&amp;f.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">A corny painting, yes. But this took the longest to complete. I felt a lot of pressure to do this justice as it was a gift to my then-girlfriend. Her comment was that she didn't like her teeth. Yeah, they could have been better.</p>
+            <p>A corny painting, yes. But this took the longest to complete. I felt a lot of pressure to do this justice as it was a gift to my then-girlfriend. Her comment was that she didn't like her teeth. Yeah, they could have been better.</p>
           </div>
         </div>
         
@@ -154,7 +86,7 @@
           <img src="../assets/images/paintings/9-touch.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">Started as an imitation of an album cover I liked, this one took on new life after years of existence. The finished product came out much better than I'd hoped. I often think of knowledge, as in the light source the hand points to represents awareness, insight.</p>
+            <p>Started as an imitation of an album cover I liked, this one took on new life after years of existence. The finished product came out much better than I'd hoped. I often think of knowledge, as in the light source the hand points to represents awareness, insight.</p>
           </div>
         </div>
         
@@ -163,7 +95,7 @@
           <img src="../assets/images/paintings/10-ocean&amp;sky.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">Another painting that has changed over the years. This is my first attempt at painting ocean waves. I particularly like the sky gradient.</p>
+            <p>Another painting that has changed over the years. This is my first attempt at painting ocean waves. I particularly like the sky gradient.</p>
           </div>
         </div>
         
@@ -172,7 +104,7 @@
           <img src="../assets/images/paintings/11-sadie.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">This is an important one. I was commissioned to paint my sister's dog soon after she passed away. This is a tribute to Sadie.</p>
+            <p>This is an important one. I was commissioned to paint my sister's dog soon after she passed away. This is a tribute to Sadie.</p>
           </div>
         </div>
         
@@ -181,7 +113,7 @@
           <img src="../assets/images/paintings/12-hallie.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">My niece, Hallie.</p>
+            <p>My niece, Hallie.</p>
           </div>
         </div>
         
@@ -190,7 +122,7 @@
           <img src="../assets/images/paintings/13-f&amp;b.jpeg" alt="" />
           <div class="painting-caption">
             <div class="fadeout"></div>
-            <p class="text-muted">A technical challenge, this painting was intense for me. I was asked to produce this for my ex's best friend. It took 20 hours and is one I'm most proud of.</p>
+            <p>A technical challenge, this painting was intense for me. I was asked to produce this for my ex's best friend. It took 20 hours and is one I'm most proud of.</p>
           </div>
         </div>
         

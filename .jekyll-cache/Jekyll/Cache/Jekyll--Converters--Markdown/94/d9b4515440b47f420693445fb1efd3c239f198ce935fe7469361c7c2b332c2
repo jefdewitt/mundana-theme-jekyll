@@ -1,19 +1,11 @@
-I"ý<div class="container">
+I"D<div class="container">
+  <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
   <div class="row justify-content-center">
     <div class="col-md-8">
-      <h1 class="font-weight-bold title h6 text-uppercase mb-4">
-        Painting Gallery
-      </h1>
 
-      <!-- <section class="paintings-section">
-            {% assign image_files = site.static_files | where: "image", true %}
-            {% for myimage in image_files %}
-                <div id="selected-image-{{forloop.index}}" onclick="openLightbox(event)">
-                  <img src="{{myimage.path}}" alt="">
-                  <div class="lightbox-caption"><p>Your caption here</p></div>
-                </div>
-            {% endfor %}
-          </section> -->
+      <section class="paintings-introduction">
+        <p>I paint when I can. When I'm not feeling too lazy. It's fun making a mess. I've long felt shy about sharing my work. Here it is; for all the world to see and judge. Although literally 17 people have ever visited my site. Whatever.</p>
+      </section>
 
       <section class="paintings-section">
         {% assign image_files = site.data.paintings %} {% for myimage in

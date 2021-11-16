@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Owning Sobriety In The Workplace"
+title:  "Talking About Sobriety In The Workplace"
 author: jef
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+categories: [ mental-health ]
+image: assets/images/boban-ninkovic-SZgtZymgxE4-unsplash-min.jpg
 tags: [sticky]
 ---
 According to the National Institutes of Health, ten percent of Americans have struggled with substance abuse at some point in their lives (NIH, 2015). That’s over 30 million people. I’m one of them. 

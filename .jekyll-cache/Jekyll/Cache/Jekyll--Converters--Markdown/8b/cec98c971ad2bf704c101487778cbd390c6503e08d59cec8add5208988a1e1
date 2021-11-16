@@ -1,12 +1,10 @@
-I"„1<div class="container">
+I"n1<div class="container">
+  <h4 class="font-weight-bold spanborder"><span>Paintings</span></h4>
   <div class="row justify-content-center">
     <div class="col-md-8">
-      <h1 class="font-weight-bold title h6 text-uppercase mb-4">
-        Painting Gallery
-      </h1>
 
       <section class="paintings-introduction">
-        <p>I paint when I can. When I'm not feeling too lazy. It's fun making a mess. I've long felt shy about sharing my work. Here it is; for all the world to see and judge.Although literally 17 people have ever visited my site. Whatever.</p>
+        <p>I paint when I can. When I'm not feeling too lazy. It's fun making a mess. I've long felt shy about sharing my work. Here it is; for all the world to see and judge. Although literally 17 people have ever visited my site. Whatever.</p>
       </section>
 
       <section class="paintings-section">
@@ -131,7 +129,7 @@
       </section>
     </div>
 
-    <div class="col-md-4"><div class="sticky-top sticky-top-offset">
+    <!-- <div class="col-md-4"><div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
                         
@@ -217,7 +215,7 @@
             </li>                
            
     </ol>
-</div> </div>
+</div> </div> -->
   </div>
 </div>
 :ET
