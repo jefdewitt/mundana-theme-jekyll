@@ -59,30 +59,37 @@ img {
 
 @media (min-width: 576px) {
 
-    img {
+    /* img {
         max-height: 10em;
-    }
+    } */
 
     .paintings-section {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
-        align-items: flex-start;
+        align-items: baseline;
     }
 
     .painting-container {
         max-width: 33%;
         text-align: center;
         padding: 0 5px;
-        min-height: 15em;
     }
 
-    .fadeout {
-        height: 3em;
+    .painting-container p {
+        height: 2em;
+        font-size: 0.8rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* .fadeout {
+        height: 4em;
         width: 100%;
         position: absolute;
         bottom: 0;
         background: linear-gradient(
         0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 100%);
-    }
+    } */
 }
