@@ -38,14 +38,30 @@
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 
+    {% if page.url == "/" %}
+
+        <div class="site-banner-img-text-wrapper">
+            <div class="site-banner-img"></div>
+            <div class="site-banner-text light-text-with-shadow container">
+                <h1>Jef DeWitt</h1>
+                <p>Software Engineer</p>
+                <p>Writer</p>
+                <!-- <p>Addiction Survivor</p> -->
+                <a class="link-button" href="/authors-list.html">Biography <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </div>
+        </div>
+
+    {% endif %}
+
     <!-- Navbar -->
-    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/"><strong>{{site.name}}</strong></a>
+        <!-- <a class="navbar-brand" href="/"><strong>{{site.name}}</strong></a> -->
+        <a class="navbar-brand" href="/"></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+        <div class="navbar-collapse collapse" id="navbarColor02">
             <ul class="navbar-nav mr-auto d-flex align-items-center">
                {% include menu-header.html %}
             </ul>
@@ -62,7 +78,7 @@
     </div>
 
     <!-- Content -->
-    <main role="main" class="site-content">
+    <main role="main" class="site-content" id="posts">
         {{ content }}
     </main>
 

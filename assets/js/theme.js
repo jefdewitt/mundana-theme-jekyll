@@ -191,3 +191,8 @@ function openLightbox(event) {
     }
 }
 
+function openDrawer(event) {
+    let element = event.target;
+    element.classList.toggle("open");
+}
+

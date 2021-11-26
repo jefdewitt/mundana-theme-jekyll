@@ -2,7 +2,21 @@ img {
     max-height: 20em;
 }
 
-.paintings-section {
+.section {
+    height: 23rem;
+    overflow: hidden;
+    translate: height 1s;
+}
+
+.section.open {
+    height: initial;
+}
+
+.section h5 {
+    pointer-events: none;
+}
+
+.paintings.section {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -63,11 +77,16 @@ img {
         max-height: 10em;
     } */
 
-    .paintings-section {
+    .paintings.section {
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: baseline;
+        height: 17rem;
+    }
+
+    .section.open {
+        height: initial;
     }
 
     .painting-container {

@@ -4,9 +4,10 @@ title:  "Talking About Sobriety In The Workplace"
 author: jef
 categories: [ mental-health ]
 image: assets/images/boban-ninkovic-SZgtZymgxE4-unsplash-min.jpg
+photo-credit: "Photo by https://unsplash.com/@bob_ninkov"
 tags: [sticky]
 ---
-According to the National Institutes of Health, ten percent of Americans have struggled with substance abuse at some point in their lives (NIH, 2015). That’s over 30 million people. I’m one of them. 
+According to the National Institutes of Health, [ten percent of Americans have struggled with substance abuse](https://www.nih.gov/news-events/news-releases/10-percent-us-adults-have-drug-use-disorder-some-point-their-lives){:target="_blank"} at some point in their lives (NIH, 2015). That’s over 30 million people. I’m one of them. 
 
 I’ve written this post to promote normalizing discussions around substance abuse and addiction in the workplace. Why? Because I was once afraid to talk about it and maybe others are too. Admittedly, this is a little self-serving but it’s an honest effort to help heal all that goes along with the psychology of battling addiction. 
 
@@ -48,7 +49,7 @@ Do you see past struggles with addiction as a red flag?
 
 #### Getting Help
 
-If you or someone you know needs help, it can be found free and confidentially via SAMHSA’s National Helpline: 1-800-662-HELP (4357) (SAMHSA, n.d.).
+If you or someone you know needs help, it can be found free and confidentially via [SAMHSA’s National Helpline](https://www.samhsa.gov/find-help/national-helpline){:target="_blank"}: 1-800-662-HELP (4357) (SAMHSA, n.d.).
 
 References
 

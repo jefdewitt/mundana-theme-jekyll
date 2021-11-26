@@ -1,10 +1,4 @@
----
-title: "Strange Ideas"
-layout: default
-permalink: "/paintings.html"
----
-
-<div class="container">
+I"J<div class="container">
   <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
   <div class="page-content">
     <!-- <div class="col-md-8"> -->
@@ -17,11 +11,7 @@ permalink: "/paintings.html"
         <h5 class="font-weight-bold spanborder">I Paint When I Can</h5>
         {% assign image_files = site.data.paintings %} {% for myimage in
         image_files %}
-        <div
-          id="selected-image-{{forloop.index}}"
-          class="painting-container"
-          onclick="openLightbox(event)"
-        >
+        <div id="selected-image-{{forloop.index}}" class="painting-container" onclick="openLightbox(event)">
           <!-- {{myimage}} -->
           <img src="{{myimage.url}}" alt="" />
           <div class="painting-caption">
@@ -36,3 +26,4 @@ permalink: "/paintings.html"
     <!-- <div class="col-md-4">{% include sidebar-featured.html %}</div> -->
   </div>
 </div>
+:ET

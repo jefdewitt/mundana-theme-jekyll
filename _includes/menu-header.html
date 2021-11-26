@@ -4,22 +4,22 @@
 <a class="nav-link" href="{{site.baseurl}}">Home</a>
 </li> -->
 <li class="nav-item">
-  <a class="nav-link" href="/">Posts</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/#posts">Posts</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link" href="/authors-list.html">About</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/authors-list.html">Biography</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link" href="/contact.html">Contact</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/contact.html">Contact</a>
 </li>
 <li class="nav-item">
-  <a class="nav-link" href="/paintings.html">Paintings</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/paintings.html">Strange Ideas</a>
 </li>
 <!-- <li class="nav-item">
-<a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mundana-ghost/">Ghost</a>
+<a target="_blank" class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="https://www.wowthemes.net/themes/mundana-ghost/">Ghost</a>
 </li> -->
 <li class="nav-item">
-  <a target="_blank" class="nav-link" href="https://www.wowthemes.net/donate/"
+  <a target="_blank" class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="https://www.wowthemes.net/donate/"
     >Buy me a coffee <i class="fa fa-coffee text-danger"></i
   ></a>
 </li>
