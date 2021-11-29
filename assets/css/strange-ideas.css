@@ -1,4 +1,4 @@
-img {
+.section img {
     max-height: 20em;
 }
 
@@ -72,10 +72,6 @@ img {
 
 
 @media (min-width: 576px) {
-
-    /* img {
-        max-height: 10em;
-    } */
 
     .paintings.section {
         flex-direction: row;
