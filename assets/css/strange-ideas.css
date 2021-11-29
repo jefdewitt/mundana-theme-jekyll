@@ -1,5 +1,6 @@
 .section img {
     max-height: 20em;
+    width: 100%
 }
 
 .section {
@@ -69,7 +70,6 @@
     bottom: 92%;
 	color: #fff;
 }
-
 
 @media (min-width: 576px) {
 
