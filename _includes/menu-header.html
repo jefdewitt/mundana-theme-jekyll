@@ -4,22 +4,19 @@
 <a class="nav-link" href="{{site.baseurl}}">Home</a>
 </li> -->
 <li class="nav-item">
-  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/#posts">Posts</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow selected {% endif %}' href="/#posts">Posts</a>
 </li>
 <li class="nav-item">
-  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/authors-list.html">Biography</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %} {% if page.url == "/biography.html" %} selected {% endif %}' href="/biography.html">Biography</a>
 </li>
 <li class="nav-item">
-  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/contact.html">Contact</a>
-</li>
-<li class="nav-item">
-  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/paintings.html">Strange Ideas</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %} {% if page.url == "/contact.html" %} selected {% endif %}' href="/contact.html">Contact</a>
 </li>
 <!-- <li class="nav-item">
-<a target="_blank" class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="https://www.wowthemes.net/themes/mundana-ghost/">Ghost</a>
+  <a class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="/paintings.html">Strange Ideas</a>
 </li> -->
-<li class="nav-item">
+<!-- <li class="nav-item">
   <a target="_blank" class='nav-link {% if page.url == "/" %} light-text-with-shadow {% endif %}' href="https://www.wowthemes.net/donate/"
     >Buy me a coffee <i class="fa fa-coffee text-danger"></i
   ></a>
-</li>
+</li> -->
