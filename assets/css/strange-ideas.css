@@ -1,7 +1,3 @@
-.section img {
-    max-height: 20em;
-    width: 100%
-}
 
 .section {
     height: 23rem;
@@ -32,9 +28,10 @@
     position: relative;
 }
 
-/* .painting-caption {
-    position: relative;
-} */
+.paintings img {
+    max-height: 20em;
+    max-width: 100%;
+}
 
 .lightbox-bg {
 	position: absolute;

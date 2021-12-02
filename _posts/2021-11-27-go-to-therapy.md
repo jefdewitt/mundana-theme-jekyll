@@ -3,8 +3,8 @@ layout: post
 title:  "Go To Therapy"
 author: jef
 categories: [ mental-health ]
-image: assets/images/annie-spratt-PL0dlsf2D-0-unsplash.jpg
-photo-credit: "Photo by https://unsplash.com/@anniespratt"
+image: assets/images/austin-chan-ukzHlkoz1IE-unsplash.jpg
+photo-credit: "Photo by https://unsplash.com/@austinchan"
 tags: [featured]
 ---
 
@@ -16,11 +16,11 @@ Admittedly, my background in therapy is a bit extensive now. I’ve been going f
 
 #### The Power of Therapy
 
-Our thoughts, behaviors, and beliefs are the product of programming we’ve received over our lifetimes. The sources for these programs are our families, friends, institutions, our communities, as well as things like social media and art. Therapy offers the opportunity to raise awareness of these programs up to the conscious level. 
+Our thoughts, behaviors, and beliefs are the product of programming we’ve received over our lifetimes. The sources for these programs are our families, friends, institutions, and our communities. As well as things like social media and art. 
+
+The real value of therapy is in gaining awareness of these programs. Only then can we take conscious steps to evaluate whether they’re serving to meet our needs or not. This gives us the chance to alter or replace them.
 
 That may sound a bit woo-woo but this programming is informing what we do, whether we’re aware of it or not.
-
-The real value in therapy is in gaining awareness of these programs.  Only then can we take conscious steps to evaluate whether they’re serving to meet our needs or not. This give us the chance to alter or replace them.
 
 It sounds kind of simple. And maybe it is. But that doesn’t mean it’s easy. It requires a sort of ruthless honesty with yourself. Not a mean or hyper-critical honesty, but an unflinching, unvarnished look at what actions you are choosing. 
 
@@ -36,7 +36,7 @@ Out of pocket expenses can add up. Then, there’s the time involved. We all hav
 
 Let me be real here: Being vulnerable with a complete stranger can be scary. It’s not always easy to reveal deep truths about ourselves. Especially the unsavory bits, opening ourselves up to perceived judgement. Although, a good therapist is a safe place to do this.
 
-It can be therapeutic to talk to someone how you feel but to gain insight and healing you must do the work. This means raising your self-awareness about your programs, your beliefs, thought patterns, and behaviors. This means researching the ideas that come up in therapy. Sometimes there's homework: reading books, online articles. And always trying to live mindful of the insights gained during session work.
+It can be therapeutic to talk to someone how you feel. But to gain insight and healing you must do the work. This means committing to new ways of thinking and acting. This means doing the homework; researching the ideas, reading books, and articles. Always trying to live mindful of the truths gained during session work.
 
 #### Career Implications
 

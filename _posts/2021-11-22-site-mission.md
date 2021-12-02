@@ -3,7 +3,7 @@ layout: post
 title:  "What is this Site About, Anyway?"
 author: jef
 categories: [ opinion ]
-image: assets/images/emily-morter-8xAA0f9yQnE-unsplash-min.jpg
+image: assets/images/emily-morter-8xAA0f9yQnE-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@emilymorter"
 tags: [featured]
 ---

@@ -1,67 +1,67 @@
 [
     {
         "image_number": 1,
-        "url": "../assets/images/paintings/1-vermont-min.jpeg",
+        "url": "../assets/images/paintings/1-vermont-min.jpg",
         "caption": "This is a paiting of the Vermont countryside."
     },
     {
         "image_number": 2,
-        "url": "../assets/images/paintings/2-f.jpeg",
+        "url": "../assets/images/paintings/2-f.jpg",
         "caption": "This is the painting that gave me confidence to try portraits. Though it's a bit cartoon-ey, the shading isn't bad -- it gave me confidence."
     },
     {
         "image_number": 3,
-        "url": "../assets/images/paintings/3-balloons.jpeg",
+        "url": "../assets/images/paintings/3-balloons.jpg",
         "caption": "These are balloons, ya goof!"
     },
     {
         "image_number": 4,
-        "url": "../assets/images/paintings/4-covered-bridge.jpeg",
+        "url": "../assets/images/paintings/4-covered-bridge.jpg",
         "caption": "A covered bridge inspired by Woodstock, Vermont."
     },
     {
         "image_number": 5,
-        "url": "../assets/images/paintings/5-sand-dollar.jpeg",
+        "url": "../assets/images/paintings/5-sand-dollar.jpg",
         "caption": "The very first intact sand dollar I ever got from the ocean."
     },
     {
         "image_number": 6,
-        "url": "../assets/images/paintings/6-secret-canyon.jpeg",
+        "url": "../assets/images/paintings/6-secret-canyon.jpg",
         "caption": "A narrow passaegway in Secret Canyon, Arizona."
     },
     {
         "image_number": 7,
-        "url": "../assets/images/paintings/7-old-oak-tree.jpeg",
+        "url": "../assets/images/paintings/7-old-oak-tree.jpg",
         "caption": "A large old, solitary oak tree. This was painted for my mother."
     },
     {
         "image_number": 8,
-        "url": "../assets/images/paintings/8-j&f.jpeg",
+        "url": "../assets/images/paintings/8-j&f.jpg",
         "caption": "A corny painting, yes. But this took the longest to complete. I felt a lot of pressure to do this justice as it was a gift to my then-girlfriend. Her comment was that she didn't like her teeth. Yeah, they could have been better."
     },
     {
         "image_number": 9,
-        "url": "../assets/images/paintings/9-touch.jpeg",
+        "url": "../assets/images/paintings/9-touch.jpg",
         "caption": "Started as an imitation of an album cover I liked, this one took on new life after years of existence. The finished product came out much better than I'd hoped. I often think of knowledge, as in the light source the hand points to represents awareness, insight."
     },
     {
         "image_number": 10,
-        "url": "../assets/images/paintings/10-ocean&sky.jpeg",
+        "url": "../assets/images/paintings/10-ocean&sky.jpg",
         "caption": "Another painting that has changed over the years. This is my first attempt at painting ocean waves. I particularly like the sky gradient."
     },
     {
         "image_number": 11,
-        "url": "../assets/images/paintings/11-sadie.jpeg",
+        "url": "../assets/images/paintings/11-sadie.jpg",
         "caption": "This is an important one. I was commissioned to paint my sister's dog soon after she passed away. This is a tribute to Sadie."
     },
     {
         "image_number": 12,
-        "url": "../assets/images/paintings/12-hallie.jpeg",
+        "url": "../assets/images/paintings/12-hallie.jpg",
         "caption": "My niece, Hallie."
     },
     {
         "image_number": 13,
-        "url": "../assets/images/paintings/13-f&b.jpeg",
+        "url": "../assets/images/paintings/13-f&b.jpg",
         "caption": "A technical challenge, this painting was intense for me. I was asked to produce this for my ex's best friend. It took 20 hours and is one I'm most proud of."
     }
 ]

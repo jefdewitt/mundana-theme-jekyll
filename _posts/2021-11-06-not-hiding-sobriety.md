@@ -3,7 +3,7 @@ layout: post
 title:  "Talking About Sobriety In The Workplace"
 author: jef
 categories: [ mental-health ]
-image: assets/images/boban-ninkovic-SZgtZymgxE4-unsplash-min.jpg
+image: assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@bob_ninkov"
 tags: [sticky]
 ---
