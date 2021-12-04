@@ -32,7 +32,7 @@ In Man’s Search for Meaning, Viktor Frankl wrote "Everything can be taken from
 
 It’s up to us to decide how we interpret and respond to what we experience.
 
-Positivity isn’t taught in schools. It’s learned. And although it’s considered a soft skill, it’s pretty hard to keep up. Having thick skin is helpful. But embracing positivity is more than not letting the bad stuff in. It’s seeing the good in the bad. It’s seeing adversity as the teacher.
+Positivity isn’t taught in schools. It’s learned. And although it’s considered a _soft_ _skill_, it’s pretty hard to keep up. Having thick skin is helpful. But embracing positivity is more than not letting the bad stuff in. It’s _seeing the good in the bad_. It’s viewing adversity as the teacher.
 
 How do you view positivity?
 
