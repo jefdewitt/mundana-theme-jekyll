@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Positivity Is A Skill"
+title:  "Positivity As A Skill"
 author: jef
 categories: [ mental-health ]
 image: assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg
