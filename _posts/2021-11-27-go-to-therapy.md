@@ -50,9 +50,9 @@ In therapy and in my career as a software engineer, I approach problems with the
 
 #### The Takeaway
 
-Therapy is about breaking old patterns. It’s about awareness. It requires studying yourself. Again, it’s simple but It’s not easy.
+Therapy is about breaking old patterns. It’s about awareness. It requires studying yourself. Again, it’s simple but it’s not easy.
 
-Fortunately, we don’t have to do this on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here] (https://www.psychologytoday.com/us/therapists). 
+Fortunately, we don’t have to do this on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here](https://www.psychologytoday.com/us/therapists). 
 
 References
 
