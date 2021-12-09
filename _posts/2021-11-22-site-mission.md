@@ -5,7 +5,7 @@ author: jef
 categories: [ opinion ]
 image: assets/images/emily-morter-8xAA0f9yQnE-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@emilymorter"
-tags: [featured]
+tags: []
 ---
 
 I am a software engineer, a mental health advocate, and an imperfectionist. 

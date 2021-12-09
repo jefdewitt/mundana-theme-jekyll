@@ -1,4 +1,4 @@
-I"Ø$<div class="container">
+I"’&<div class="container">
     
 {% if page.url == "/" %}
     
@@ -6,10 +6,12 @@
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
+
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
+        <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{latest_post.url}}">
     &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
@@ -39,13 +41,40 @@
     
     <div class="col-md-6">
         
+        <h4 class="font-weight-bold spanborder"><span>Videos</span></h4>
+        
+        {% assign video_files = site.data.videos %} {% for myVideo in
+            video_files %}
+
+            <div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video">
+                        <div class="iframe-container">
+                            {{myVideo.url}}
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold">
+                        <p class="text-dark">{{myVideo.caption}}</p>
+                        <small class="text-muted">{{myVideo.date}}</small>
+                    </div>
+                </div>
+
+            </div>
+
+        {% endfor %}
+
+        <a href="/">All Videos</a>
+
+    </div>
+        
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        <!-- {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{second_post.url}}">
-                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -64,15 +93,15 @@
                         {{ second_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
-            </div>
+            </div> -->
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        <!-- {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{third_post.url}}">
-                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
+                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -91,15 +120,15 @@
                         {{ third_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
-            </div>
+            </div> -->
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
+        <!-- {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{fourth_post.url}}">
-                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
+                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -118,15 +147,15 @@
                         {{ fourth_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
-            </div>
+            </div> -->
         
     </div>
     
 </div>
-    
+
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %} 
-{% if post.tags contains "sticky" %}
+<p>{% for post in site.posts %} 
+{% if post.tags contains ‚Äústicky‚Äù %}</p>
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
@@ -141,29 +170,15 @@
             </div>
         </div>
     </div>
-</div> 
-{% endif %}
-{% endfor %}
+</div>
+<p>{% endif %}
+{% endfor %}</p>
 
-
-    
-
-
-{% endif %} <!--endif page url is / -->
-    
-
+<p>{% endif %} <!--endif page url is / --></p>
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-    
+
 <div class="row mt-3">
-   
-    <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>Videos</span></h4>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QgDcwEsEm1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-    </div>
    
     <div class="col-md-8 main-loop">
         
@@ -212,7 +227,5 @@
     
 </div>
 
-
-
-</div>
+<p>&lt;/div&gt;</p>
 :ET

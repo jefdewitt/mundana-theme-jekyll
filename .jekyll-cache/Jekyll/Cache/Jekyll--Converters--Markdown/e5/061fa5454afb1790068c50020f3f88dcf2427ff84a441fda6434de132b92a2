@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-    enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"‘&<div class="container">
     
 {% if page.url == "/" %}
     
@@ -21,7 +12,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -48,13 +39,38 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     
     <div class="col-md-6">
         
+        <h4 class="font-weight-bold spanborder"><span>Videos</span></h4>
+        
+        {% assign video_files = site.data.videos %} {% for myVideo in
+            video_files %}
+
+            <div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video">
+                        <div class="iframe-container">
+                            {{myVideo.url}}
+                        </div>
+                    </div>
+                    <div class="caption">
+                        <p class="text-dark">{{myVideo.caption}}</p>
+                        <small class="text-muted">{{myVideo.date}}&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+            &lt;/div&gt;
+
+        {% endfor %}
+
+    &lt;/div&gt;
+        
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -81,7 +97,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -108,7 +124,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -129,9 +145,9 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                 </div>
             </div>
         
-    </div>
+    &lt;/div&gt;
     
-</div>
+&lt;/div&gt;
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
@@ -168,8 +184,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>        
 
         {% for post in paginator.posts %}
         
@@ -179,7 +194,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
         
         <div class="mt-5">
          <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -216,4 +231,6 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
 
 
 
-</div>
+&lt;/div&gt;
+</small></div></div></div></div></div></div>
+:ET

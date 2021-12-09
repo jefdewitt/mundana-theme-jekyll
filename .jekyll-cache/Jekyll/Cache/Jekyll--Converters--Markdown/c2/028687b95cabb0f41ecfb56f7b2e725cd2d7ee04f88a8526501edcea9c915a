@@ -1,4 +1,4 @@
-I"9*<div class="container">
+I"Ë'<div class="container">
   <h4 class="font-weight-bold spanborder"><span>Strange Ideas</span></h4>
   <div class="page-content">
     <!-- <div class="col-md-8"> -->
@@ -137,42 +137,27 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
+                    <a href="/positivity-as-a-skill/" class="text-dark">Positivity As A Skill</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
                     <a href="/go-to-therapy/" class="text-dark">Just Go To Therapy Already, Jeez</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     
                     <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/embrace-struggling/" class="text-dark">Embrace Struggling</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/site-mission/" class="text-dark">What is this Site About, Anyway?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#opinion">opinion</a><span class="sep">, </span>
                     
                     </span>
                 </span>

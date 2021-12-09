@@ -1,4 +1,4 @@
-I"j5<div class="container">
+I"»(<div class="container">
     
 
     
@@ -11,12 +11,12 @@
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/attitude-matters/">
+    <a href="/positivity-as-a-skill/">
     <div class="topfirstimage" style="background-image: url( /assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/attitude-matters/">Positivity As A Skill</a>
+    <a class="text-dark" href="/positivity-as-a-skill/">Positivity As A Skill</a>
     </h2>
     <p class="excerpt">
         Positivity is a hard skill to master. It requires working to bolster it and build muscle behind it. It means choosing it over and ove...
@@ -37,82 +37,35 @@
     </div>
     </div>
     
-    <div class="col-md-6">
+    <div class="mb-3 d-flex align-items-center">   
         
-        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/go-to-therapy/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/austin-chan-ukzHlkoz1IE-unsplash.jpg" alt="Just Go To Therapy Already, Jeez" />
-                </a>
+        <h4 class="font-weight-bold spanborder"><span>Videos</span></h4>
+
+         
+
+            <div class="video-and-caption-row">
+                <div class="iframe-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QgDcwEsEm1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                 </div>
-                                
                 <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/go-to-therapy/">Just Go To Therapy Already, Jeez</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Nov 27, 2021
-                    </small>
+                    <p>This is my very first youtube video.</p>
+                    <p>Dec 3, 2021</p>
                 </div>
             </div>
+
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/embrace-struggling/">
-                 <img class="w-100" src="/assets/images/dj-johnson-mTH1CZWaX0Q-unsplash.jpg" alt="Embrace Struggling" />
-                </a>
+
+            <div class="video-and-caption-row">
+                <div class="iframe-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QgDcwEsEm1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                 </div>
-                                
                 <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/embrace-struggling/">Embrace Struggling</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Nov 23, 2021
-                    </small>
+                    <p>This is my very first youtube video.</p>
+                    <p>Dec 5, 2021</p>
                 </div>
             </div>
+
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/site-mission/">
-                <img class="w-100" src="/assets/images/emily-morter-8xAA0f9yQnE-unsplash.jpg" alt="What is this Site About, Anyway?" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/site-mission/">What is this Site About, Anyway?</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#opinion">opinion</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Nov 22, 2021
-                    </small>
-                </div>
-            </div>
         
     </div>
     
@@ -161,14 +114,6 @@
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>Videos</span></h4>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QgDcwEsEm1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-    </div>
-   
-    <div class="col-md-8 main-loop">
-        
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>        
 
         
@@ -176,7 +121,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/attitude-matters/">Positivity As A Skill</a>
+	<a class="text-dark" href="/positivity-as-a-skill/">Positivity As A Skill</a>
 	</h2>
 	<p class="excerpt">
 	   Positivity is a hard skill to master. It requires working to bolster it and build muscle behind it. It means choosing it over and over until it becomes reflexive.
@@ -194,7 +139,7 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/attitude-matters/">
+	<a href="/positivity-as-a-skill/">
 	<img class="w-100" src="/assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg" alt="Positivity As A Skill" />
 	</a>
 	</div>
@@ -338,42 +283,27 @@
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
+                    <a href="/positivity-as-a-skill/" class="text-dark">Positivity As A Skill</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
                     <a href="/go-to-therapy/" class="text-dark">Just Go To Therapy Already, Jeez</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     
                     <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/embrace-struggling/" class="text-dark">Embrace Struggling</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/site-mission/" class="text-dark">What is this Site About, Anyway?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#opinion">opinion</a><span class="sep">, </span>
                     
                     </span>
                 </span>

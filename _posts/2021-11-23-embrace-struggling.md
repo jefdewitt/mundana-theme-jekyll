@@ -5,7 +5,7 @@ author: jef
 categories: [ mental-health ]
 image: assets/images/dj-johnson-mTH1CZWaX0Q-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@dj_johns1"
-tags: [featured]
+tags: []
 ---
 
 I volunteer as a mentor at Code Louisville where the mission is “to provide quality training and support to help residents of Louisville enter software development careers at no charge” (Code Louisville, n.d.). It’s a mission that’s placed more than 500 graduates in technology roles, reports David A. Mann, Digital Editor for Louisville Business First (Mann, 2020). 

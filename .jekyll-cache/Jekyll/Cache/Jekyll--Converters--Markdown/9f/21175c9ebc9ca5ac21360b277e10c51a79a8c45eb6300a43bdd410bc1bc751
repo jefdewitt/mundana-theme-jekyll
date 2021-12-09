@@ -1,4 +1,4 @@
-I"1<div class="container">
+I";<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -17,7 +17,7 @@
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/attitude-matters/">Positivity As A Skill</a>
+	<a class="text-dark" href="/positivity-as-a-skill/">Positivity As A Skill</a>
 	</h2>
 	<p class="excerpt">
 	   Positivity is a hard skill to master. It requires working to bolster it and build muscle behind it. It means choosing it over and over until it becomes reflexive.
@@ -35,7 +35,7 @@
 </div>
 
 	<div class="col-md-3 pr-0 text-right">
-	<a href="/attitude-matters/">
+	<a href="/positivity-as-a-skill/">
 	<img class="w-100" src="/assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg" alt="Positivity As A Skill" />
 	</a>
 	</div>

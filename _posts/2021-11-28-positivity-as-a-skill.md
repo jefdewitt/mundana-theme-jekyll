@@ -5,7 +5,7 @@ author: jef
 categories: [ mental-health ]
 image: assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@kylejglenn"
-tags: []
+tags: [featured]
 ---
 
 Positivity is a hard skill to master. It requires working to bolster it and build muscle behind it. It means choosing it over and over until it becomes reflexive.
