@@ -39,5 +39,3 @@ How do you view positivity?
 References
 
 Frankl, V. E. (1984). Man's search for meaning: An introduction to logotherapy. New York: Simon & Schuster.
-
-National Institutes of Health (November 18, 2015). 10 percent of US adults have drug use disorder at some point in their lives. National Institutes of Health https://www.nih.gov/news-events/news-releases/10-percent-us-adults-have-drug-use-disorder-some-point-their-lives

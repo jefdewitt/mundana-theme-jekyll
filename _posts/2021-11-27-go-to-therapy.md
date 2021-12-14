@@ -8,23 +8,23 @@ photo-credit: "Photo by https://unsplash.com/@austinchan"
 tags: [featured]
 ---
 
-Therapy is a funny subject. Some think it’s a last resort. Like you only go to therapy once the proverbial excrement has hit the fan. It’s where you finally turn to when a relationship fails. Or when you experience a loss and have tried other options without success.
+Why go to therapy? Maybe it’s a last resort. Maybe you want to ‘fix’ things. Maybe the proverbial excrement has hit the fan in your life. 
 
-Some believe it’s intended to fix things. You go for a while, process whatever is ailing you, and then you’re done. While I don’t agree with the ‘fixing’ part, I see merit in processing gridlocked situations and emotions through therapy. 
+Perhaps a relationship fails and you’re looking for answers. Or the experience of a profound loss or other trauma has left other coping strategies lacking.
 
-I’ve been active in therapy for over three-and-a-half years now. You won’t find a bigger proponent. It is the most profound decision of my life. Let me explain why.
+Some people are understandedly skeptical of the benefits. Some think they _should_ handle their struggles on their on. But deciding to ask for help (therapy) has been the most profound decision of my life. I'll explain why.
 
 #### Unconscious Programming
 
-The way we interpret and respond to the world is through programs running in our heads. We get these programs from our communities, our institutions, our parents. We’re taught what’s right and wrong. 
+In therapy and in software, I approach problems with the same basic questions in mind: What block of code is running? What is it trying to accomplish?
 
-Often these programs run without us noticing. We simply react to a situation the way we usually do; like when a spouse is moody and you wind up arguing. Your partner says something that triggers the response to stand up for yourself; an action ingrained in you from childhood. Rather than show empathy, you fight back. This happens without thinking. But is it helpful?
+Software programs and human minds are not that different. It’s about inputs and outputs. We take in feedback from our environment as input. We respond with output. The programs that inform what action we take are learned responses. We’re taught appropriate responses from our parents, our communities, our institutions. 
 
-The value of therapy is in gaining awareness of these programs. It’s taking conscious steps to evaluate whether they’re serving to meet our needs or not. Are my responses helpful? Because they are the only thing we can control.
+The problem is, we often don’t revisit what we’ve learned. We hold on to responses that aren’t based on facts or even helpful. And it’s common for the these programs to run unnoticed. 
 
 #### The Power of Therapy
 
-That may sound a bit woo-woo but this programming is informing what we do, whether we’re aware of it or not.
+The value of therapy is in identifying patterns in your thoughts and behavior. Only after you achieve awareness of the choices you’re making can you evaluate whether they’re helping meet your needs. 
 
 It's simple, yes. But that doesn’t mean it’s easy. It requires a sort of ruthless honesty with yourself. Not a mean or hyper-critical honesty, but an unflinching, unvarnished look at what actions you are choosing. 
 
@@ -38,7 +38,7 @@ Therapy requires you to do work.
 
 There’s the time involved. We all have busy lives. It can be hard to find an extra hour here and there.
 
-Being vulnerable can be scary. It’s not always easy to reveal deep truths about ourselves. Especially the unsavory bits, opening ourselves up to perceived judgment. Although, a good therapist is a safe place to do this.
+Being vulnerable is scary. It isn’t easy to reveal deep truths about ourselves. Especially the unsavory bits, opening ourselves up to perceived judgment. Although, a good therapist is a safe place to do this.
 
 Let me be real here: The benefit is in the work. This means committing to new ways of thinking and acting. It can be therapeutic to talk to someone about how you feel, but it may not be enough. You have to do the homework; research the ideas, practice the lessons; field test what you learn.
 
@@ -46,14 +46,9 @@ Let me be real here: The benefit is in the work. This means committing to new wa
 
 Insight into motivations and decision-making has professional benefits too. We have office relationships we’re trying to manage. Understanding ourselves leads to a better understanding of others, which only leads to better outcomes. This amounts to better performance, better communication, better productivity. 
 
-In therapy and in my career as a software engineer, I approach problems with the same basic questions in mind: What block of code is running? What is it trying to accomplish?
-
 #### The Takeaway
 
-Therapy is about breaking old patterns. It’s about awareness. It requires studying yourself. Again, it’s simple but it’s not easy.
+Therapy is about breaking old patterns. It’s about awareness. It requires studying yourself.  It’s the same as going to the dentist for routine checkups and cleaning; it’s mental floss. 
 
-Fortunately, we don’t have to do this on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here](https://www.psychologytoday.com/us/therapists). 
+Again, it’s simple but it’s not easy.
 
-References
-
-National Institutes of Health (November 18, 2015). 10 percent of US adults have drug use disorder at some point in their lives. National Institutes of Health https://www.nih.gov/news-events/news-releases/10-percent-us-adults-have-drug-use-disorder-some-point-their-lives

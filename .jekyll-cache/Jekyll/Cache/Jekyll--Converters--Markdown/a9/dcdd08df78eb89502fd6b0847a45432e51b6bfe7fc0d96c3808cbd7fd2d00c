@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-    enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"?'<div class="container">
     
 {% if page.url == "/" %}
     
@@ -23,7 +14,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
         <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -64,8 +55,8 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                         </div>
                     </div>
                     <div class="caption h6 font-weight-bold mb-2">
-                        <a class="text-dark" href={{myVideo.link}}>{{myVideo.caption}}</a>
-                        <br>
+                        &lt;a class="text-dark" href={{myVideo.link}}&gt;{{myVideo.caption}}&lt;/a&gt;
+                        <br />
                         <small class="text-muted">{{myVideo.date}}</small>
                     </div>
                 </div>
@@ -208,7 +199,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
         
         <div class="mt-5">
          <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -246,3 +237,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
 
 
 </div>
+:ET
