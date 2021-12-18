@@ -5,7 +5,7 @@ author: jef
 categories: [ mental-health ]
 image: assets/images/austin-chan-ukzHlkoz1IE-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@austinchan"
-tags: [featured]
+tags: []
 ---
 
 Why go to therapy? Maybe it’s a last resort. Maybe you want to ‘fix’ things. Maybe the proverbial excrement has hit the fan in your life. 
@@ -15,8 +15,6 @@ Perhaps a relationship fails and you’re looking for answers. Or the experience
 Some people are understandedly skeptical of the benefits. Some think they _should_ handle their struggles on their on. But deciding to ask for help (therapy) has been the most profound decision of my life. I'll explain why.
 
 #### Unconscious Programming
-
-In therapy and in software, I approach problems with the same basic questions in mind: What block of code is running? What is it trying to accomplish?
 
 Software programs and human minds are not that different. It’s about inputs and outputs. We take in feedback from our environment as input. We respond with output. The programs that inform what action we take are learned responses. We’re taught appropriate responses from our parents, our communities, our institutions. 
 
