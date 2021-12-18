@@ -12,13 +12,13 @@ Why go to therapy? Maybe it’s a last resort. Maybe you want to ‘fix’ thing
 
 Perhaps a relationship fails and you’re looking for answers. Or the experience of a profound loss or other trauma has left other coping strategies lacking.
 
-Some people are understandedly skeptical of the benefits. Some think they _should_ handle their struggles on their on. But deciding to ask for help (therapy) has been the most profound decision of my life. I'll explain why.
+Some people are understandedly skeptical of the benefits. Some think they _should_ handle their struggles on their own. But deciding to ask for help (therapy) has been the most profound decision of my life. I'll explain why.
 
 #### Unconscious Programming
 
-Software programs and human minds are not that different. It’s about inputs and outputs. We take in feedback from our environment as input. We respond with output. The programs that inform what action we take are learned responses. We’re taught appropriate responses from our parents, our communities, our institutions. 
+Software programs and human minds are not that different. It’s about inputs and outputs. We take feedback from our environment as input. We respond with output. The programs that inform what action we take are learned responses. We’re taught appropriate responses from our parents, our communities, our institutions. 
 
-The problem is, we often don’t revisit what we’ve learned. We hold on to responses that aren’t based on facts or even helpful. And it’s common for the these programs to run unnoticed. 
+The problem is, we often don’t revisit what we’ve learned. We hold on to responses that aren’t based on facts or even helpful. And it’s common for these programs to run unnoticed. 
 
 #### The Power of Therapy
 
