@@ -3,8 +3,8 @@ layout: post
 title:  "Don't Wait To Feel Ready"
 author: jef
 categories: [ mental-health ]
-image: assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg
-photo-credit: "Photo by https://unsplash.com/@bob_ninkov"
+image: assets/images/charles-deluvio-OWkXt1ikC5g-unsplash.jpg
+photo-credit: "Photo by https://unsplash.com/@charlesdeluvio"
 tags: [featured]
 ---
 
