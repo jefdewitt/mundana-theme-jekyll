@@ -1,4 +1,4 @@
-I"î<<div class="container">
+I"üC<div class="container">
     
 
     
@@ -72,8 +72,34 @@
         <!--<div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/just-ship-it/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg" alt="Don't Wait To Feel Ready">
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/just-ship-it/">Don't Wait To Feel Ready</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Dec 02, 2021
+                    </small>
+                </div>
+            </div> -->
+        
+        <!-- third latest post -->
+        <!--<div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/positivity-as-a-skill/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg" alt="Positivity As A Skill">
+                 <img class="w-100" src="/assets/images/kyle-glenn-_AR74EoWdy0-unsplash.jpg" alt="Positivity As A Skill">
                 </a>
                 </div>
                                 
@@ -94,12 +120,12 @@
                 </div>
             </div> -->
         
-        <!-- third latest post -->
+        <!-- fourth latest post -->
         <!--<div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/go-to-therapy/">
-                 <img class="w-100" src="/assets/images/austin-chan-ukzHlkoz1IE-unsplash.jpg" alt="Just Go To Therapy Already, Jeez">
+                <img class="w-100" src="/assets/images/austin-chan-ukzHlkoz1IE-unsplash.jpg" alt="Just Go To Therapy Already, Jeez">
                 </a>
                 </div>
                                 
@@ -120,38 +146,30 @@
                 </div>
             </div> -->
         
-        <!-- fourth latest post -->
-        <!--<div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/embrace-struggling/">
-                <img class="w-100" src="/assets/images/dj-johnson-mTH1CZWaX0Q-unsplash.jpg" alt="Embrace Struggling">
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/embrace-struggling/">Embrace Struggling</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Nov 23, 2021
-                    </small>
-                </div>
-            </div> -->
-        
     </div>
     
 <!-- </div> -->
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
  
+
+ 
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">Don't Wait To Feel Ready</h1>
+                <p class="mb-3 lead">
+                    According to Internet Live Stats (Internet Live Stats, n.d.), roughly 7.5 billion blog posts are written per day. In four months that...
+                </p>
+                <a href="/just-ship-it/" class="btn btn-dark">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg);">	
+            </div>
+        </div>
+    </div>
+</div> 
 
  
 
@@ -222,6 +240,36 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/recovery-belongs-on-resume/">
 	<img class="w-100" src="/assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg" alt="Addiction Recovery Belongs On A Resume" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/just-ship-it/">Don't Wait To Feel Ready</a>
+	</h2>
+	<p class="excerpt">
+	   According to Internet Live Stats (Internet Live Stats, n.d.), roughly 7.5 billion blog posts are written per day. In four months that amounts to a trillion blog posts.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 02, 2021
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/just-ship-it/">
+	<img class="w-100" src="/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg" alt="Don't Wait To Feel Ready" />
 	</a>
 	</div>
 
