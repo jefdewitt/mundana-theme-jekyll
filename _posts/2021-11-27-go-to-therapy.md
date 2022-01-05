@@ -50,3 +50,5 @@ Therapy is about breaking old patterns. It’s about awareness. It requires stud
 
 Again, it’s simple but it’s not easy.
 
+Fortunately, we don’t have to do this on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here](https://www.psychologytoday.com/us/therapists). 
+
