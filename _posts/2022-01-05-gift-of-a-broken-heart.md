@@ -32,11 +32,11 @@ I discovered that past relationships informed our conduct toward one another. De
 
 #### When The Dust Settled
 
-After it ended, I entered the deepest reflective period of my life. 
+After it ended, I entered the deepest reflective period of my life.
 
-Sober, I grieved more consciously. The more research I did on what went wrong, the more time spent in reflection, the more I saw the over-effort on my part. And this pointed to an undeniable fact: I had abandoned myself. 
+Sober, I grieved more consciously. The more research I did on what went wrong, the more time spent in reflection, the more I saw the over-effort on my part. And this pointed to an undeniable fact: I had abandoned myself.
 
-Learning Acceptance Through Heartache
+#### Learning Acceptance Through Heartache
 
 There is no pain quite like heartache. You can't reason with it. Analyzing it and applying logic won’t _solve_ it. Even understanding why a relationship ended and believing the reasons were valid won’t help. You can't process emotional hurt away.
 
