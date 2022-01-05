@@ -14,7 +14,7 @@ The older I get, the more important relationships are to me: platonic, romantic,
 
 When a relationship ends, it can be hard to approach the situation constructively. But recognizing your own contributions is the key to growth.
 
-How It Began
+#### How It Began
 
 By the Spring of 2021, I had been in love for over two years. It was my first sober, long-term relationship. I thought she was the one.
 
@@ -22,7 +22,7 @@ That relationship seemed like the culmination of ten years of work toward life�
 
 But It didn’t feel sustainable. I began to wonder if I had missed the point. I was in love but exhausted to my core.
 
-What I Knew About Love
+#### What I Knew About Love
 
 My background in love was that you had to earn it. It wasn’t something offered for free. So I tried being the perfect partner.
 
@@ -30,7 +30,7 @@ I obsessed over building a lasting, healthy, lifelong connection. As it began to
 
 I discovered that past relationships informed our conduct toward one another. Deeper emotional needs tried to get met in unhealthy and unsuccessful surface behaviors. Throw in the run-chase dynamic of avoidant-anxious attachment styles, and the heartache ingredients were all there.
 
-When The Dust Settled
+#### When The Dust Settled
 
 After it ended, I entered the deepest reflective period of my life. 
 
@@ -44,7 +44,7 @@ I approached heartbreak like getting sober. I leaned into the strategies that sa
 
 There’s no timeline for grief. Missing someone and simultaneously not wanting to be in a relationship with them is both healthy and normal. Accepting all that comes with heartbreak means allowing the sadness and unwelcome thoughts to simply exist. You don't have to believe or assign value to them, they can just be.
 
-The Takeaway
+#### The Takeaway
 
 Relationships are profound contributors to, and barometers of, our mental health. When unhealthy or unworkable, they can test us in ways few other challenges can. 
 
@@ -57,4 +57,3 @@ But don’t underestimate the toll a breakup can have on your mental well-being.
 References
 
 Brene Brown Quotes. (n.d.). BrainyQuote.com. https://www.brainyquote.com/quotes/brene_brown_553094
-
