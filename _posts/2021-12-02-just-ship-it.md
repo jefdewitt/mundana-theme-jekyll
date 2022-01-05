@@ -22,7 +22,7 @@ I spend a lot of time on my posts. I aim to earn the three minutes you take to r
 
 That’s not to say I don’t take it seriously. I do. My goal is to offer a tip, an insight, or a small win for your time. That’s it. 
 
-And that is how I got started in everything I’ve ever done; my sobriety, my career, my relationships. Owning my imperfection as I go. 
+How I got started in everything I’ve ever done, my sobriety, my career, and my relationships is by owning my imperfection as I go. 
 
 ##### Just Ship It
 
