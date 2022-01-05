@@ -16,7 +16,7 @@ When a relationship ends, it can be hard to approach the situation constructivel
 
 #### How It Began
 
-By the Spring of 2021, I had been in love for over two years. It was my first sober, long-term relationship. I thought she was the one.
+By the Spring of 2021, I had been in love for over two years. It was my first sober, long-term relationship. I thought she was the _one_.
 
 That relationship seemed like the culmination of ten years of work toward life’s To-Do list: Get sober. Get an education. Get the career, the house, the girl. On paper, it looked great.
 
@@ -38,7 +38,7 @@ Sober, I grieved more consciously. The more research I did on what went wrong, t
 
 Learning Acceptance Through Heartache
 
-There is no pain quite like heartache. You can't reason with it. Analyzing it and applying logic won’t solve it. Even understanding why a relationship ended and believing the reasons were valid won’t help. You can't process emotional hurt away.
+There is no pain quite like heartache. You can't reason with it. Analyzing it and applying logic won’t _solve_ it. Even understanding why a relationship ended and believing the reasons were valid won’t help. You can't process emotional hurt away.
 
 I approached heartbreak like getting sober. I leaned into the strategies that saved my life. But while love and addiction share some qualities, they are not the same.
 
@@ -46,11 +46,11 @@ There’s no timeline for grief. Missing someone and simultaneously not wanting 
 
 #### The Takeaway
 
-Relationships are profound contributors to, and barometers of, our mental health. When unhealthy or unworkable, they can test us in ways few other challenges can. 
+Relationships are profound contributors to, and barometers of, our mental health. When unhealthy or unworkable, they can test us in ways few other challenges can.
 
-I had gone through breakups before. But being sober meant this one hit differently. A broken heart taught me lessons in impactful ways. The truth is, it transformed me. 
+I had gone through breakups before. But being sober meant this one hit differently. A broken heart taught me lessons in impactful ways. The truth is, it transformed me.
 
-I’m grateful for what heartbreak has taught me; the power of acceptance. There is some solace in that. 
+I’m grateful for what heartbreak has taught me; the power of acceptance. There is some solace in that.
 
 But don’t underestimate the toll a breakup can have on your mental well-being. We don’t have to struggle on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here](https://www.psychologytoday.com/us/therapists).
 
