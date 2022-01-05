@@ -50,7 +50,7 @@ Relationships are profound contributors to, and barometers of, our mental health
 
 I had gone through breakups before. But being sober meant this one hit differently. A broken heart taught me lessons in impactful ways. The truth is, it transformed me.
 
-I’m grateful for what heartbreak has taught me; the power of acceptance. There is some solace in that.
+I’m grateful for heartbreak teaching me the power of acceptance. There is some solace in that.
 
 But don’t underestimate the toll a breakup can have on your mental well-being. We don’t have to struggle on our own. If you or someone you know can use more information finding a therapist, reach out to the folks running Psychology Today [here](https://www.psychologytoday.com/us/therapists).
 
