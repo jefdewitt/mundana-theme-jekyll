@@ -14,7 +14,7 @@ Those numbers discouraged me.
 
 I thought that more qualified people had already written everything I’m writing now. I doubted I could bring anything novel or meaningful to the table. I feared only adding to the noise. 
 
-I still have those fears. But here I am writing anyway. Sometimes it’s best to ship it, ready or not.
+I still have those fears. But here I am writing anyway. Not waiting for better-prepared people to do what I want to do. Sometimes it’s best to ship it, ready or not. 
 
 #### Imperfectionism
 
@@ -22,7 +22,7 @@ I spend a lot of time on my posts. I aim to earn the three minutes you take to r
 
 That’s not to say I don’t take it seriously. I do. My goal is to offer a tip, an insight, or a small win for your time. That’s it. 
 
-And that is how I got started in everything I’ve ever done; my sobriety, my career, my relationships. Not striving for perfection. Not waiting for better-prepared people to do what I want to do. Owning my imperfection as I go. 
+And that is how I got started in everything I’ve ever done; my sobriety, my career, my relationships. Owning my imperfection as I go. 
 
 ##### Just Ship It
 
@@ -30,7 +30,7 @@ This applies to code too.
 
 It makes me nervous to write this but sometimes it’s a necessary truth: Write suboptimal code. Write duplicated code. Hard code strings in template files. Forget about edge cases for the time being. Iterate on as many ideas as possible. 
 
-Half-rear-ended work is better than no-rear-ended work. Don’t let perfect be the enemy of good. Or good enough. There, I said it: perfectionism be damned
+Half-rear-ended work is better than no-rear-ended work. Don’t let perfect be the enemy of good. Or good enough. There, I said it: perfectionism be damned.
 
 You can brute-force the pants off of a project to create some momentum. Later on, come back and iterate on it. Clean it up. Test it. For new devs, just build stuff anyway you know how to. You will learn. You will get better. 
 
