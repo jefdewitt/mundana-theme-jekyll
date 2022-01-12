@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dream Big Enough"
+title:  "Dream Ridiculously"
 author: jef
 categories: [ mental-health ]
 image: assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg
