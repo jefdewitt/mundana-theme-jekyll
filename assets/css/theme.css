@@ -821,6 +821,10 @@ div.a2a_full_footer {display:none;}
     width: 100%;
  }
 
+ .video, .caption {
+	 flex: 1;
+ }
+
  .video {
 	 width: 100%;
  }
