@@ -4,27 +4,35 @@
         "url": "<iframe width='560' height='315' src='https://www.youtube.com/embed/fGiffhtUlKg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
         "link": "https://www.youtube.com/embed/fGiffhtUlKg",
         "caption": "Learning acceptance through heartbreak.",
-        "date": "Jan 18, 2022"
+        "categories": "Relationships",
+        "date": "Jan 18, 2022",
+        "tags": []
     },
     {
         "video_number": 3,
         "url": "<iframe width='560' height='315' src='https://www.youtube.com/embed/3ELdg0Nxh8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
         "link": "https://www.youtube.com/watch?v=3ELdg0Nxh8g",
         "caption": "Fighting mental health stigma.",
-        "date": "Jan 11, 2022"
+        "categories": "Mental Health",
+        "date": "Jan 11, 2022",
+        "tags": []
     },
     {
         "video_number": 2,
         "url": "<iframe width='560' height='315' src='https://www.youtube.com/embed/9Dio2vF1je0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
         "link": "https://youtu.be/-WE4lmTn4Io",
         "caption": "Insight into sobriety for non-sober folks.",
-        "date": "Dec 27, 2021"
+        "categories": "Addiction",
+        "date": "Dec 27, 2021",
+        "tags": ["featured"]
     },
     {
         "video_number": 1,
         "url": "<iframe width='560' height='315' src='https://www.youtube.com/embed/-WE4lmTn4Io' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
         "link": "https://youtu.be/-WE4lmTn4Io",
         "caption": "Let's make mental health discussions less weird.",
-        "date": "Dec 13, 2021"
+        "categories": "Mental Health",
+        "date": "Dec 13, 2021",
+        "tags": ["sticky"]
     }
 ]

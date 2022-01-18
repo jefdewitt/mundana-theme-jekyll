@@ -1,47 +1,40 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-    enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
+I"¸<div class="container videos">
+    <!-- <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4> -->
 
 
-<div class="container">
-    
-{% if page.url == "/" %}
-    
-    
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<!-- Begin post excerpts, let's highlight the first 4 videos on top -->
 <div class="row remove-site-content-margin">
-
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
+    {% assign latest_video = site.data.videos[0] %}
     <div class="col-md-6">
-        <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>The Latest</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
-    </a>
+        <div class="video-card">
+            <div class="video mb-3">
+                <div class="iframe-container">
+                    {{latest_video.url}}
+                </div>
+            </div>
+        </div>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="{{latest_post.url}}">{{ latest_post.title }}</a>
+    <a class="text-dark" href="{{latest_video.link}}">{{ latest_video.caption }}</a>
     </h2>
     <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+        {{ latest_post.caption | strip_html | strip_newlines | truncate: 136 }}
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
-                {% for category in latest_post.categories %}
+                {% for category in latest_video.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
         <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
+            {{ latest_video.date | date: '%b %d, %Y' }}
         </small>
     </div>
     </div>
@@ -50,36 +43,36 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     
     <div class="col-md-6">
         
-        <h4 class="font-weight-bold spanborder"><span>Latest Videos</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Recent Videos</span></h4>
         
-        <!-- first latest video -->
-        {%- assign first_video = site.data.videos[0] -%}        
-        <div class="mb-3 d-flex align-items-center">   
+        {% assign video_files = site.data.videos %} {% for myVideo in
+            video_files %}
 
-            <div class="video-and-caption-row">
-                <div class="video mb-3">
-                    <div class="iframe-container">
-                        {{first_video.url}}
+            <div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            {{myVideo.url}}
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href={{myVideo.link}}&gt;{{myVideo.caption}}&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">{{myVideo.date}}</small>
                     </div>
                 </div>
-                <div class="caption h6 font-weight-bold mb-2">
-                    <a class="text-dark" href={{first_video.link}}>{{first_video.caption}}</a>
-                    <br>
-                    <small class="text-muted">{{first_video.date}}</small>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                            {% for category in first_video.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                            {% endfor %}
-                            </span>                   
-                    </small>
-                </div>
+
             </div>
 
-        </div>
+        {% endfor %}
+
+        <!-- <a class="btn btn-dark" href="/">All Videos</a> -->
+
+    </div>
         
         <!-- second latest video -->
-        {%- assign second_video = site.data.videos[1] -%}        
+        {%- assign second_video = site.video[1] -%}        
         <div class="mb-3 d-flex align-items-center">   
 
             <div class="video-and-caption-row">
@@ -89,23 +82,16 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                     </div>
                 </div>
                 <div class="caption h6 font-weight-bold mb-2">
-                    <a class="text-dark" href={{second_video.link}}>{{second_video.caption}}</a>
-                    <br>
+                    &lt;a class="text-dark" href={{second_video.link}}&gt;{{second_video.caption}}&lt;/a&gt;
+                    <br />
                     <small class="text-muted">{{second_video.date}}</small>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                            {% for category in second_video.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                            {% endfor %}
-                            </span>                   
-                    </small>
                 </div>
             </div>
 
         </div>
         
         <!-- third latest video -->
-        {%- assign third_video = site.data.videos[3] -%}        
+        {%- assign third_video = site.videos[2] -%}        
         <div class="mb-3 d-flex align-items-center">   
 
             <div class="video-and-caption-row">
@@ -115,24 +101,32 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                     </div>
                 </div>
                 <div class="caption h6 font-weight-bold mb-2">
-                    <a class="text-dark" href={{third_video.link}}>{{third_video.caption}}</a>
-                    <br>
+                    &lt;a class="text-dark" href={{third_video.link}}&gt;{{third_video.caption}}&lt;/a&gt;
+                    <br />
                     <small class="text-muted">{{third_video.date}}</small>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                            {% for category in third_video.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                            {% endfor %}
-                            </span>                   
-                    </small>
                 </div>
             </div>
 
         </div>
+        
+        <!-- fourth latest video -->
+        {%- assign forth_video = site.videos[3] -%}        
+        <div class="mb-3 d-flex align-items-center">   
 
-        <a class="btn btn-dark video-button" href="/videos">All Videos</a>
+            <div class="video-and-caption-row">
+                <div class="video mb-3">
+                    <div class="iframe-container">
+                        {{forth_video.url}}
+                    </div>
+                </div>
+                <div class="caption h6 font-weight-bold mb-2">
+                    &lt;a class="text-dark" href={{forth_video.link}}&gt;{{forth_video.caption}}&lt;/a&gt;
+                    <br />
+                    <small class="text-muted">{{forth_video.date}}</small>
+                </div>
+            </div>
 
-    </div>
+        </div>
         
     </div>
     
@@ -157,14 +151,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     </div>
 </div> 
 {% endif %}
-{% endfor %}
-
-
-    
-
-
-{% endif %} <!--endif page url is / -->
-    
+{% endfor %}    
 
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
@@ -183,7 +170,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
         
         <div class="mt-5">
          <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -221,3 +208,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
 
 
 </div>
+:ET

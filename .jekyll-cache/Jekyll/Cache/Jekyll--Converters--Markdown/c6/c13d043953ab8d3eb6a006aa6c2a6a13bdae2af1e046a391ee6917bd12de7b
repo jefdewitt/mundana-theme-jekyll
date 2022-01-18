@@ -1,0 +1,290 @@
+I"h/<div class="container videos">
+    <!-- <h4 class="font-weight-bold spanborder"><span>Videos</span></h4> -->
+
+
+    <!-- Begin video excerpts, let's highlight the first 4 videos on top -->
+    <div class="row remove-site-content-margin">
+        
+        <!-- latest video -->
+        
+        <div class="col-md-6">
+            <h4 class="font-weight-bold spanborder"><span>The Latest</span></h4>
+        <div class="card border-0 mb-4 box-shadow">   
+            <div class="video-card">
+                <div class="video mb-3">
+                    <div class="iframe-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/fGiffhtUlKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+            </div>
+        <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+        <h2 class="h4 font-weight-bold">
+        <a class="text-dark" href="https://www.youtube.com/embed/fGiffhtUlKg">Learning acceptance through heartbreak.</a>
+        </h2>
+        <p class="excerpt">
+            
+        </p>
+        <div>
+            <small class="d-block text-muted">
+                In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">Relationships</a><span class="sep">, </span>
+                    
+                    </span>                   
+            </small>
+            <small class="text-muted">
+                Jan 18, 2022
+            </small>
+        </div>
+        </div>
+        </div>
+        </div>
+        
+        <div class="col-md-6">
+            
+            <h4 class="font-weight-bold spanborder"><span>Recent Videos</span></h4>
+
+            <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/3ELdg0Nxh8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://www.youtube.com/watch?v=3ELdg0Nxh8g&gt;Fighting mental health stigma.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Jan 11, 2022</small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9Dio2vF1je0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://youtu.be/-WE4lmTn4Io&gt;Insight into sobriety for non-sober folks.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Dec 27, 2021</small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- fourth latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/-WE4lmTn4Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://youtu.be/-WE4lmTn4Io&gt;Let's make mental health discussions less weird.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Dec 13, 2021</small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!--  
+
+                <div class="mb-3 d-flex align-items-center">   
+
+                    <div class="video-and-caption-row">
+                        <div class="video mb-3">
+                            <div class="iframe-container">
+                                <iframe width='560' height='315' src='https://www.youtube.com/embed/fGiffhtUlKg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="caption h6 font-weight-bold mb-2">
+                            <a class="text-dark" href=https://www.youtube.com/embed/fGiffhtUlKg>Learning acceptance through heartbreak.</a>
+                            <br>
+                            <small class="text-muted">Jan 18, 2022</small>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+
+                <div class="mb-3 d-flex align-items-center">   
+
+                    <div class="video-and-caption-row">
+                        <div class="video mb-3">
+                            <div class="iframe-container">
+                                <iframe width='560' height='315' src='https://www.youtube.com/embed/3ELdg0Nxh8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="caption h6 font-weight-bold mb-2">
+                            <a class="text-dark" href=https://www.youtube.com/watch?v=3ELdg0Nxh8g>Fighting mental health stigma.</a>
+                            <br>
+                            <small class="text-muted">Jan 11, 2022</small>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+
+                <div class="mb-3 d-flex align-items-center">   
+
+                    <div class="video-and-caption-row">
+                        <div class="video mb-3">
+                            <div class="iframe-container">
+                                <iframe width='560' height='315' src='https://www.youtube.com/embed/9Dio2vF1je0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="caption h6 font-weight-bold mb-2">
+                            <a class="text-dark" href=https://youtu.be/-WE4lmTn4Io>Insight into sobriety for non-sober folks.</a>
+                            <br>
+                            <small class="text-muted">Dec 27, 2021</small>
+                        </div>
+                    </div>
+
+                </div>
+
+            
+
+                <div class="mb-3 d-flex align-items-center">   
+
+                    <div class="video-and-caption-row">
+                        <div class="video mb-3">
+                            <div class="iframe-container">
+                                <iframe width='560' height='315' src='https://www.youtube.com/embed/-WE4lmTn4Io' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                            </div>
+                        </div>
+                        <div class="caption h6 font-weight-bold mb-2">
+                            <a class="text-dark" href=https://youtu.be/-WE4lmTn4Io>Let's make mental health discussions less weird.</a>
+                            <br>
+                            <small class="text-muted">Dec 13, 2021</small>
+                        </div>
+                    </div>
+
+                </div>
+
+             -->
+
+            <!-- <a class="btn btn-dark" href="/">All Videos</a> -->
+
+        </div>
+        
+    </div>
+    
+<!-- </div> -->
+    
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="video mb-3">
+        <div class="iframe-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-WE4lmTn4Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</div> 
+
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Videos</span></h4>        
+
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/recovery-belongs-on-resume/" class="text-dark">Addiction Recovery Belongs On A Resume</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/just-ship-it/" class="text-dark">Don't Wait To Feel Ready</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/positivity-as-a-skill/" class="text-dark">Positivity As A Skill</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET

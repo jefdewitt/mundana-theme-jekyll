@@ -658,6 +658,9 @@ footer {
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+2) {
 	display:none !important;
 }
+.videos .main-video-loop .main-loop-video-card:nth-child(-n+5) {
+	display:none !important;
+}
 .excerpt {
     color: rgba(0,0,0,0.59);
     margin-top:10px;
@@ -814,6 +817,10 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+
+ .container.videos {
+	 padding-top: 2rem;
+ }
  
  .video-and-caption-row {
 	display: flex;
@@ -831,6 +838,11 @@ div.a2a_full_footer {display:none;}
 
  .video-and-caption-row .caption {
 	 padding: 1rem;
+ }
+
+ .video-button {
+	margin-bottom: 1rem;
+    float: right;
  }
 
 .iframe-container {

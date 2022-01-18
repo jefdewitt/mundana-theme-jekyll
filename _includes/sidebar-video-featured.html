@@ -1,0 +1,19 @@
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured Videos</span></h4>  
+    <ol class="list-featured">			
+        {% for video in site.data.videos %} 	
+        {% if video.tags contains "featured" %}               
+            <li class="mb-4"><div class="mb-3 d-flex align-items-center main-loop-video-card">   
+
+                <div class="video-and-caption-row">
+                    <div class="h6 font-weight-bold mb-2">
+                        <a class="text-dark" href={{video.link}}>{{video.caption}}</a>
+                        <br>
+                        <small class="text-muted">{{video.date}}</small>
+                    </div>
+                </div>
+            </li>                
+        {% endif %} 
+        {% endfor %}  
+    </ol>
+</div> 
