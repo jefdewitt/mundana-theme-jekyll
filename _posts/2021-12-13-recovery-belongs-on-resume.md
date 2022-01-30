@@ -2,7 +2,7 @@
 layout: post
 title:  "Addiction Recovery Belongs On A Resume"
 author: jef
-categories: [ mental-health ]
+categories: [ addiction ]
 image: assets/images/markus-winkler-7iSEHWsxPLw-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@markuswinkler"
 tags: [featured]

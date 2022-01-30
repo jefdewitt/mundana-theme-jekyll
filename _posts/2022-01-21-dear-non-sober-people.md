@@ -38,7 +38,7 @@ Sobriety isn’t free or easy. It comes at a cost.
 
 It can mean missing out on the shared traditions of our way of life. It may mean losing relationships. 
 
-It certainly does mean changing a lifestyle. 
+It's way more than not drinking. It's changing a way of life.
 
 References
 

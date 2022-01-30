@@ -2,7 +2,7 @@
 layout: post
 title:  "The Gift of Heartbreak"
 author: jef
-categories: [ mental-health, relationships ]
+categories: [ relationships ]
 image: assets/images/matthew-bennett-FHCaT8blG5k-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@mbennettphoto"
 tags: []
