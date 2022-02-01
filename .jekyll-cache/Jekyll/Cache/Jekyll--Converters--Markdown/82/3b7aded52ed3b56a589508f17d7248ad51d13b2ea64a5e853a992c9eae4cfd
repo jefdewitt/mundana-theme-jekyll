@@ -1,4 +1,4 @@
-I"2/<div class="container videos">
+I"d2<div class="container videos">
 
     <!-- Begin video excerpts, let's highlight the first 4 videos on top -->
     <div class="row remove-site-content-margin">
@@ -11,13 +11,13 @@
             <div class="video-card">
                 <div class="video mb-3">
                     <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/V8khv72arbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/QEIg3Jj83so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                     </div>
                 </div>
             </div>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
         <h2 class="h4 font-weight-bold">
-        <a class="text-dark" href="https://www.youtube.com/embed/V8khv72arbM">How to hack positivity.</a>
+        <a class="text-dark" href="https://www.youtube.com/embed/QEIg3Jj83so">How I got sober.</a>
         </h2>
         <p class="excerpt">
             
@@ -26,7 +26,7 @@
             <small class="d-block text-muted">
                 In <span class="catlist">
                     
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mential health">Mential Health</a><span class="sep">, </span>
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">Addiction</a><span class="sep">, </span>
                     
                     </span>                   
             </small>
@@ -43,6 +43,30 @@
             <h4 class="font-weight-bold spanborder"><span>Recent Videos</span></h4>
 
             <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/V8khv72arbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://www.youtube.com/embed/V8khv72arbM&gt;How to hack positivity.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Jan 25, 2022</small>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mential health">Mential Health</a><span class="sep">, </span>
+                                
+                                </span>                   
+                        </small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
 
                 <div class="video-and-caption-row">
                     <div class="video mb-3">
@@ -66,7 +90,7 @@
 
             </div>
             
-            <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
+            <!-- fourth latest video --><div class="mb-3 d-flex align-items-center">   
 
                 <div class="video-and-caption-row">
                     <div class="video mb-3">
@@ -89,36 +113,14 @@
                 </div>
 
             </div>
-            
-            <!-- fourth latest video --><div class="mb-3 d-flex align-items-center">   
-
-                <div class="video-and-caption-row">
-                    <div class="video mb-3">
-                        <div class="iframe-container">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9Dio2vF1je0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                        </div>
-                    </div>
-                    <div class="caption h6 font-weight-bold mb-2">
-                        &lt;a class="text-dark" href=https://youtu.be/-WE4lmTn4Io&gt;Insight into sobriety for non-sober folks.&lt;/a&gt;
-                        <br />
-                        <small class="text-muted">Dec 27, 2021</small>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                                
-                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">Addiction</a><span class="sep">, </span>
-                                
-                                </span>                   
-                        </small>
-                    </div>
-                </div>
-
-            </div>
 
         </div>
         
     </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -149,6 +151,25 @@
         <h4 class="font-weight-bold spanborder"><span>All Videos</span></h4>        
 
          
+        
+            <div class="mb-3 d-flex align-items-center main-loop-video-card">   
+
+    <div class="video-and-caption-row">
+        <div class="caption h6 font-weight-bold mb-2">
+            &lt;a class="text-dark" href=https://www.youtube.com/embed/QEIg3Jj83so&gt;How I got sober.&lt;/a&gt;
+            <br />
+            <small class="text-muted">Jan 25, 2022</small>
+        </div>
+        <div class="video mb-3">
+            <div class="iframe-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/QEIg3Jj83so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+    </div>
+
+</div>
+        
+        
         
             <div class="mb-3 d-flex align-items-center main-loop-video-card">   
 
@@ -251,6 +272,8 @@
         <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured Videos</span></h4>  
     <ol class="list-featured">			
+         	
+         
          	
          
          	

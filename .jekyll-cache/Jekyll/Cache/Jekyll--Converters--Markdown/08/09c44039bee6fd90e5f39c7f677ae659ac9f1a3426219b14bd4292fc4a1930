@@ -1,4 +1,4 @@
-I"•<<div class="container">
+I"â;<div class="container">
     
 
     
@@ -48,6 +48,30 @@
             <div class="video-and-caption-row">
                 <div class="video mb-3">
                     <div class="iframe-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/QEIg3Jj83so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+                <div class="caption h6 font-weight-bold mb-2">
+                    &lt;a class="text-dark" href=https://www.youtube.com/embed/QEIg3Jj83so&gt;How I got sober.&lt;/a&gt;
+                    <br />
+                    <small class="text-muted">Jan 25, 2022</small>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                            
+                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">Addiction</a><span class="sep">, </span>
+                            
+                            </span>                   
+                    </small>
+                </div>
+            </div>
+
+        </div>
+        
+        <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
+
+            <div class="video-and-caption-row">
+                <div class="video mb-3">
+                    <div class="iframe-container">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/V8khv72arbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                     </div>
                 </div>
@@ -67,7 +91,7 @@
 
         </div>
         
-        <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
+        <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
 
             <div class="video-and-caption-row">
                 <div class="video mb-3">
@@ -83,30 +107,6 @@
                         In <span class="catlist">
                             
                             <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">Relationships</a><span class="sep">, </span>
-                            
-                            </span>                   
-                    </small>
-                </div>
-            </div>
-
-        </div>
-        
-        <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
-
-            <div class="video-and-caption-row">
-                <div class="video mb-3">
-                    <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/3ELdg0Nxh8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                    </div>
-                </div>
-                <div class="caption h6 font-weight-bold mb-2">
-                    &lt;a class="text-dark" href=https://www.youtube.com/watch?v=3ELdg0Nxh8g&gt;Fighting mental health stigma.&lt;/a&gt;
-                    <br />
-                    <small class="text-muted">Jan 11, 2022</small>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
                             
                             </span>                   
                     </small>
@@ -283,8 +283,6 @@
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-		
 		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
 		
 		</span>
@@ -315,7 +313,7 @@
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
 		
 		</span>
 	</small>
@@ -393,7 +391,7 @@
                 <span class="d-block text-muted">
                     In <span class="catlist">
                     
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
                     
                     </span>
                 </span>
