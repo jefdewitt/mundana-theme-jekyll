@@ -1,4 +1,4 @@
-I"¼<div class="container">
+I"<div class="container">
     
  <!--endif page url is / -->
     
@@ -12,6 +12,36 @@
         
         <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>        
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/site-mission/">What is this Site About, Anyway?</a>
+	</h2>
+	<p class="excerpt">
+	   I am a software engineer, a mental health advocate, and an imperfectionist.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#opinion">opinion</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Nov 22, 2021
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/site-mission/">
+	<img class="w-100" src="/assets/images/emily-morter-8xAA0f9yQnE-unsplash.jpg" alt="What is this Site About, Anyway?" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
