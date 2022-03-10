@@ -1,4 +1,4 @@
-I"¶5<div class="container videos">
+I"^<<div class="container videos">
 
     <!-- Begin video excerpts, let's highlight the first 4 videos on top -->
     <div class="row remove-site-content-margin">
@@ -11,13 +11,13 @@
             <div class="video-card">
                 <div class="video mb-3">
                     <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/U1iPunEAJjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_hxL2EinMUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                     </div>
                 </div>
             </div>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
         <h2 class="h4 font-weight-bold">
-        <a class="text-dark" href="https://www.youtube.com/embed/U1iPunEAJjU">Mental Health -- The 20-Second Rule.</a>
+        <a class="text-dark" href="https://www.youtube.com/embed/_hxL2EinMUs">Proven Steps To Becoming Happier Right Now.</a>
         </h2>
         <p class="excerpt">
             
@@ -31,7 +31,7 @@
                     </span>                   
             </small>
             <small class="text-muted">
-                Feb 08, 2022
+                Mar 08, 2022
             </small>
         </div>
         </div>
@@ -43,6 +43,54 @@
             <h4 class="font-weight-bold spanborder"><span>Recent Videos</span></h4>
 
             <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/Fqw0nuEIxLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://www.youtube.com/embed/Fqw0nuEIxLg&gt;Why I Made My Sobriety Public.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Feb 15, 2022</small>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">Addiction</a><span class="sep">, </span>
+                                
+                                </span>                   
+                        </small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
+
+                <div class="video-and-caption-row">
+                    <div class="video mb-3">
+                        <div class="iframe-container">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/U1iPunEAJjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                    <div class="caption h6 font-weight-bold mb-2">
+                        &lt;a class="text-dark" href=https://www.youtube.com/embed/U1iPunEAJjU&gt;Mental Health -- The 20-Second Rule.&lt;/a&gt;
+                        <br />
+                        <small class="text-muted">Feb 8, 2022</small>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                                
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
+                                
+                                </span>                   
+                        </small>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- fourth latest video --><div class="mb-3 d-flex align-items-center">   
 
                 <div class="video-and-caption-row">
                     <div class="video mb-3">
@@ -65,60 +113,16 @@
                 </div>
 
             </div>
-            
-            <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
-
-                <div class="video-and-caption-row">
-                    <div class="video mb-3">
-                        <div class="iframe-container">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/V8khv72arbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                        </div>
-                    </div>
-                    <div class="caption h6 font-weight-bold mb-2">
-                        &lt;a class="text-dark" href=https://www.youtube.com/embed/V8khv72arbM&gt;How to hack positivity.&lt;/a&gt;
-                        <br />
-                        <small class="text-muted">Jan 25, 2022</small>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                                
-                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
-                                
-                                </span>                   
-                        </small>
-                    </div>
-                </div>
-
-            </div>
-            
-            <!-- fourth latest video --><div class="mb-3 d-flex align-items-center">   
-
-                <div class="video-and-caption-row">
-                    <div class="video mb-3">
-                        <div class="iframe-container">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/fGiffhtUlKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                        </div>
-                    </div>
-                    <div class="caption h6 font-weight-bold mb-2">
-                        &lt;a class="text-dark" href=https://www.youtube.com/embed/fGiffhtUlKg&gt;Learning acceptance through heartbreak.&lt;/a&gt;
-                        <br />
-                        <small class="text-muted">Jan 18, 2022</small>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                                
-                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">Relationships</a><span class="sep">, </span>
-                                
-                                </span>                   
-                        </small>
-                    </div>
-                </div>
-
-            </div>
 
         </div>
         
     </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
+ 
+
  
 
  
@@ -153,6 +157,44 @@
         <h4 class="font-weight-bold spanborder"><span>All Videos</span></h4>        
 
          
+        
+            <div class="mb-3 d-flex align-items-center main-loop-video-card">   
+
+    <div class="video-and-caption-row">
+        <div class="caption h6 font-weight-bold mb-2">
+            &lt;a class="text-dark" href=https://www.youtube.com/embed/_hxL2EinMUs&gt;Proven Steps To Becoming Happier Right Now.&lt;/a&gt;
+            <br />
+            <small class="text-muted">Mar 8, 2022</small>
+        </div>
+        <div class="video mb-3">
+            <div class="iframe-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_hxL2EinMUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+    </div>
+
+</div>
+        
+        
+        
+            <div class="mb-3 d-flex align-items-center main-loop-video-card">   
+
+    <div class="video-and-caption-row">
+        <div class="caption h6 font-weight-bold mb-2">
+            &lt;a class="text-dark" href=https://www.youtube.com/embed/Fqw0nuEIxLg&gt;Why I Made My Sobriety Public.&lt;/a&gt;
+            <br />
+            <small class="text-muted">Feb 15, 2022</small>
+        </div>
+        <div class="video mb-3">
+            <div class="iframe-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Fqw0nuEIxLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+    </div>
+
+</div>
+        
+        
         
             <div class="mb-3 d-flex align-items-center main-loop-video-card">   
 
@@ -293,6 +335,10 @@
         <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured Videos</span></h4>  
     <ol class="list-featured">			
+         	
+         
+         	
+         
          	
          
          	

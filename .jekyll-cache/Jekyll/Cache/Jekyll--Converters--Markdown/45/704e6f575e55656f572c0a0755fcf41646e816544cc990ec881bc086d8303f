@@ -1,12 +1,9 @@
-I"K<<div class="container">
+I":<div class="container posts">
     
 
-    
-    
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
-
     
     <!-- latest post -->
     
@@ -41,87 +38,86 @@
     
     <div class="col-md-6">
         
-        <h4 class="font-weight-bold spanborder"><span>Latest Videos</span></h4>
-        
-        <!-- first latest video --><div class="mb-3 d-flex align-items-center">   
+        <h4 class="font-weight-bold spanborder"><span>Recent Posts</span></h4>
 
-            <div class="video-and-caption-row">
-                <div class="video mb-3">
-                    <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/U1iPunEAJjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                    </div>
+        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/sober-love/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/christopher-beloch-P2fBIamIbQk-unsplash.jpg" alt="Sober Love" />
+                </a>
                 </div>
-                <div class="caption h6 font-weight-bold mb-2">
-                    &lt;a class="text-dark" href=https://www.youtube.com/embed/U1iPunEAJjU&gt;Mental Health -- The 20-Second Rule.&lt;/a&gt;
-                    <br />
-                    <small class="text-muted">Feb 8, 2022</small>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/sober-love/">Sober Love</a>
+                    </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
-                            
-                            </span>                   
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 28, 2022
                     </small>
                 </div>
             </div>
-
-        </div>
         
-        <!-- second latest video --><div class="mb-3 d-flex align-items-center">   
-
-            <div class="video-and-caption-row">
-                <div class="video mb-3">
-                    <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/QEIg3Jj83so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                    </div>
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/dear-non-sober-people/">
+                 <img class="w-100" src="/assets/images/nikola-jovanovic-yW_fXww1raY-unsplash.jpg" alt="Dear Non-Sober People" />
+                </a>
                 </div>
-                <div class="caption h6 font-weight-bold mb-2">
-                    &lt;a class="text-dark" href=https://www.youtube.com/embed/QEIg3Jj83so&gt;How I got sober.&lt;/a&gt;
-                    <br />
-                    <small class="text-muted">Feb 1, 2022</small>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/dear-non-sober-people/">Dear Non-Sober People</a>
+                    </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">Addiction</a><span class="sep">, </span>
-                            
-                            </span>                   
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 21, 2022
                     </small>
                 </div>
             </div>
-
-        </div>
         
-        <!-- third latest video --><div class="mb-3 d-flex align-items-center">   
-
-            <div class="video-and-caption-row">
-                <div class="video mb-3">
-                    <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/V8khv72arbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-                    </div>
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/dream-ridiculously/">
+                <img class="w-100" src="/assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" alt="Dream Ridiculously" />
+                </a>
                 </div>
-                <div class="caption h6 font-weight-bold mb-2">
-                    &lt;a class="text-dark" href=https://www.youtube.com/embed/V8khv72arbM&gt;How to hack positivity.&lt;/a&gt;
-                    <br />
-                    <small class="text-muted">Jan 25, 2022</small>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/dream-ridiculously/">Dream Ridiculously</a>
+                    </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
-                            
-                            </span>                   
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 11, 2022
                     </small>
                 </div>
             </div>
-
-        </div>
-
-        <a class="btn btn-dark video-button" href="/videos">All Videos</a>
-
-    </div>
         
     </div>
     
-<!-- </div> -->
+</div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
  
@@ -166,21 +162,16 @@
 
 
 
-
+ <!-- endif page url is /blog -->
     
-
-
- <!--endif page url is / -->
-    
-
-
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
     
 <div class="row mt-3">
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
 
         
         
@@ -348,16 +339,16 @@
                 
               
                 
-                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                <li class="page-item"><a class="page-link" href="/blog/2/">2</a></li>
                 
               
                 
-                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                <li class="page-item"><a class="page-link" href="/blog/3/">3</a></li>
                 
               
 
               
-                <li class="page-item"><a class="page-link" href="/page2">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="/blog/2/">Next &raquo;</a></li>
               
             </ul>
                   

@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-    enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"<div class="container">
     
 {% if page.url == "/" %}
     
@@ -17,9 +8,9 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">Bold Writing</h1>
+                <h1 class="mb-3">Writing About Tough Subjects</h1>
                 <p class="mb-3 lead">
-                    Sharing candid experiences and perspectives. A writer that doesn't shy away from owning struggles and hard-earned life lessons.
+                    Sharing candid experiences and perspectives. Not shying away from discussing struggles and hard lessons learned.
                 </p>
                 <a href="/blog" class="btn btn-dark">Blog</a>
             </div>
@@ -51,7 +42,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
      <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
  <div class="card border-0 mb-4 box-shadow">   
  <a href="{{site.baseurl}}{{latest_post.url}}">
- <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+ &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
  </a>
  <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
  <h2 class="h4 font-weight-bold">
@@ -119,3 +110,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
 
 
 </div>
+:ET
