@@ -8125,7 +8125,9 @@ html {
   justify-content: center !important; }
 
 .justify-content-between {
-  justify-content: space-between !important; }
+  justify-content: space-between !important;
+  /* width: 100%; */
+  }
 
 .justify-content-around {
   justify-content: space-around !important; }

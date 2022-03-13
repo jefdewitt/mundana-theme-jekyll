@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-    enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"Ö<div class="container">
     
 {% if page.url == "/" %}
     
@@ -51,7 +42,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
      <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
  <div class="card border-0 mb-4 box-shadow">   
  <a href="{{site.baseurl}}{{latest_post.url}}">
- <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+ &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
  </a>
  <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
  <h2 class="h4 font-weight-bold">
@@ -119,3 +110,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
 
 
 </div>
+:ET

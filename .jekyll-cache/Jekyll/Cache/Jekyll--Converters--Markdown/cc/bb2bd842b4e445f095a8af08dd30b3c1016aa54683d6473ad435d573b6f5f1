@@ -1,6 +1,6 @@
-I"<div class="container">
+I"U<div class="container">
     
-{% if page.url == "/" %}
+
     
 <div class="row remove-site-content-margin">
     
@@ -10,11 +10,11 @@
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">Bold Writing</h1>
                 <p class="mb-3 lead">
-                    Candid experiences and perspectives. Owning struggles. Not shying away from sharing hard-earned life lessons.
+                    Candid experiences and perspectives. Owning struggles. Hard-earned life lessons.
                 </p>
                 <a href="/blog" class="btn btn-dark">Blog</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/assets/images/jd-sittin-2-min.JPG);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-sittin-2-min.jpg);">	
             </div>
         </div>
     </div>
@@ -23,12 +23,12 @@
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/assets/images/jd-standin-min.JPG);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-standin-min.jpg);">	
             </div>
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">Devoted Voice to Mental Health</h1>
                 <p class="mb-3 lead">
-                    A YouTuber that promotes open discussions around mental health, addiction, sobriety, relationships, and therapy.
+                    A YouTuber promoting open discussions around mental health, addiction, sobriety, relationships, and therapy.
                 </p>
                 <a href="/videos" class="btn btn-dark">Videos</a>
             </div>
@@ -37,64 +37,64 @@
 </div> 
 
  <!-- latest post -->
- {% assign latest_post = site.posts[0] %}
+ 
  <div class="col-md-6">
      <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
  <div class="card border-0 mb-4 box-shadow">   
- <a href="{{site.baseurl}}{{latest_post.url}}">
- &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
+ <a href="/fighting-imposter-syndrome/">
+ <div class="topfirstimage" style="background-image: url( /assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
  </a>
  <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
  <h2 class="h4 font-weight-bold">
- <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
+ <a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
  </h2>
  <p class="excerpt">
-     {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+     I’m the poster child for imposter syndrome. At 34, I started writing code without any previous experience or education. I just arrive...
  </p>
  <div>
      <small class="d-block text-muted">
          In <span class="catlist">
-             {% for category in latest_post.categories %}
-             <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-             {% endfor %}
+             
+             <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+             
              </span>                   
      </small>
      <small class="text-muted">
-         {{ latest_post.date | date: '%b %d, %Y' }}
+         Feb 02, 2022
      </small>
  </div>
  </div>
  </div>
  </div>
 
- {% assign latest_video = site.data.videos[0] %}
+ 
         <div class="col-md-6">
             <h4 class="font-weight-bold spanborder"><span>Latest Video</span></h4>
         <div class="card border-0 mb-4 box-shadow">   
             <div class="video-card">
                 <div class="video mb-3">
                     <div class="iframe-container">
-                        {{latest_video.url}}
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_hxL2EinMUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                     </div>
                 </div>
             </div>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
         <h2 class="h4 font-weight-bold">
-        <a class="text-dark" href="{{latest_video.link}}">{{ latest_video.caption }}</a>
+        <a class="text-dark" href="https://www.youtube.com/embed/_hxL2EinMUs">Proven Steps To Becoming Happier Right Now.</a>
         </h2>
         <p class="excerpt">
-            {{ latest_post.caption | strip_html | strip_newlines | truncate: 136 }}
+            
         </p>
         <div>
             <small class="d-block text-muted">
                 In <span class="catlist">
-                    {% for category in latest_video.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                    {% endfor %}
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">Mental Health</a><span class="sep">, </span>
+                    
                     </span>                   
             </small>
             <small class="text-muted">
-                {{ latest_video.date | date: '%b %d, %Y' }}
+                Mar 08, 2022
             </small>
         </div>
         </div>
@@ -103,7 +103,7 @@
     
 
 
-{% endif %} <!--endif page url is / -->
+ <!--endif page url is / -->
 
 </div>
 

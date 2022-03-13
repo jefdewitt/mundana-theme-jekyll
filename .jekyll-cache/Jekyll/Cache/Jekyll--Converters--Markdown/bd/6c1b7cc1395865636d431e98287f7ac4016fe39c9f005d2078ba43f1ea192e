@@ -1,0 +1,435 @@
+I"d:<div class="container posts">
+    
+
+    
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<div class="row remove-site-content-margin">
+    
+    <!-- latest post -->
+    
+    <div class="col-md-6">
+        <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
+    <div class="card border-0 mb-4 box-shadow">   
+    <a href="/fighting-imposter-syndrome/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    </a>
+    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+    <h2 class="h4 font-weight-bold">
+    <a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
+    </h2>
+    <p class="excerpt">
+        I’m the poster child for imposter syndrome. At 34, I started writing code without any previous experience or education. I just arrive...
+    </p>
+    <div>
+        <small class="d-block text-muted">
+            In <span class="catlist">
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+                
+                </span>                   
+        </small>
+        <small class="text-muted">
+            Feb 02, 2022
+        </small>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="col-md-6">
+        
+        <h4 class="font-weight-bold spanborder"><span>Recent Posts</span></h4>
+
+        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/sober-love/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/christopher-beloch-P2fBIamIbQk-unsplash.jpg" alt="Sober Love" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/sober-love/">Sober Love</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 28, 2022
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/dear-non-sober-people/">
+                 <img class="w-100" src="/assets/images/nikola-jovanovic-yW_fXww1raY-unsplash.jpg" alt="Dear Non-Sober People" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/dear-non-sober-people/">Dear Non-Sober People</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 21, 2022
+                    </small>
+                </div>
+            </div>
+        
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
+                <a href="/dream-ridiculously/">
+                <img class="w-100" src="/assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" alt="Dream Ridiculously" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/dream-ridiculously/">Dream Ridiculously</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Jan 11, 2022
+                    </small>
+                </div>
+            </div>
+        
+    </div>
+    
+</div>
+    
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">Talking About Sobriety In The Workplace</h1>
+                <p class="mb-3 lead">
+                    According to the National Institutes of Health, ten percent of Americans have struggled with substance abuse at some point in their l...
+                </p>
+                <a href="/not-hiding-sobriety/" class="btn btn-dark">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg);">	
+            </div>
+            ""
+            "assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg"
+        </div>
+    </div>
+</div> 
+
+
+
+ <!-- endif page url is /blog -->
+    
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
+	</h2>
+	<p class="excerpt">
+	   I’m the poster child for imposter syndrome. At 34, I started writing code without any previous experience or education. I just arrived hungry and naive but with a good attitude (I kne...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 02, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/fighting-imposter-syndrome/">
+	<img class="w-100" src="/assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg" alt="The Way Out Of Imposter Syndrome" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/sober-love/">Sober Love</a>
+	</h2>
+	<p class="excerpt">
+	   Research by Braithwaite and Holt-Lunstad (2017) suggests that “Individuals who are more mentally healthy are more likely to select into relationships, but relationships are also demon...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 28, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/sober-love/">
+	<img class="w-100" src="/assets/images/christopher-beloch-P2fBIamIbQk-unsplash.jpg" alt="Sober Love" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/dear-non-sober-people/">Dear Non-Sober People</a>
+	</h2>
+	<p class="excerpt">
+	   Research by Lipari and Van Horn (2014) concluded that roughly eighty percent of those with a substance use disorder (SUD) cite alcohol as the substance. It makes sense then that most ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 21, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/dear-non-sober-people/">
+	<img class="w-100" src="/assets/images/nikola-jovanovic-yW_fXww1raY-unsplash.jpg" alt="Dear Non-Sober People" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/dream-ridiculously/">Dream Ridiculously</a>
+	</h2>
+	<p class="excerpt">
+	     If your dreams don’t scare you, they aren’t big enough.  – Muhammad Ali
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 11, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/dream-ridiculously/">
+	<img class="w-100" src="/assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" alt="Dream Ridiculously" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/gift-of-a-broken-heart/">The Gift of Heartbreak</a>
+	</h2>
+	<p class="excerpt">
+	   Researcher and author Brené Brown (n.d.) contends, “A deep sense of love and belonging is an irreducible need of all men, women, and children. We are wired to love, to be loved, and t...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 05, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/gift-of-a-broken-heart/">
+	<img class="w-100" src="/assets/images/matthew-bennett-FHCaT8blG5k-unsplash.jpg" alt="The Gift of Heartbreak" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+              
+
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/blog/2/">2</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/blog/3/">3</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/blog/2/">Next &raquo;</a></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/dear-non-sober-people/" class="text-dark">Dear Non-Sober People</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/recovery-belongs-on-resume/" class="text-dark">Addiction Recovery Belongs On A Resume</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/just-ship-it/" class="text-dark">Don't Wait To Feel Ready</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/positivity-as-a-skill/" class="text-dark">Positivity As A Skill</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET
