@@ -6174,7 +6174,12 @@ button.bg-lightblue:focus {
 
 .pl-4,
 .px-4 {
-  padding-left: 1.5rem !important; }
+  padding-left: 1.5rem !important;
+  }
+
+.pl-4.pr-0.h-100.tofront {
+  padding-left: 0 !important;
+}
 
 .p-5 {
   padding: 3rem !important; }

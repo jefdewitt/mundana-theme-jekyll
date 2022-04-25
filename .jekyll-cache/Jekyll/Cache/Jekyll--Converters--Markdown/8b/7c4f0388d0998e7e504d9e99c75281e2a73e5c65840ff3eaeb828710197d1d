@@ -1,4 +1,4 @@
-I"T.<div class="container">
+I"i2<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -13,6 +13,36 @@
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by Jef</span></h4>
             
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/emotional-intelligence/">Emotional Intelligence</a>
+	</h2>
+	<p class="excerpt">
+	   Relationships often end with a whimper, not a bang. It’s the small, seemingly insignificant efforts that build connection and earn trust.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 20, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/emotional-intelligence/">
+	<img class="w-100" src="/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Emotional Intelligence" />
+	</a>
+	</div>
+
+</div>
             
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">

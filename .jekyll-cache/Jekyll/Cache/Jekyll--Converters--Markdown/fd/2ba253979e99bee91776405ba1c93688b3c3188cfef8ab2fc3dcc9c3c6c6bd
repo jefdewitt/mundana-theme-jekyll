@@ -1,4 +1,4 @@
-I":<div class="container posts">
+I".;<div class="container posts">
     
 
     
@@ -10,26 +10,28 @@
     <div class="col-md-6">
         <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
-    <a href="/fighting-imposter-syndrome/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    <a href="/emotional-intelligence/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
+    <a class="text-dark" href="/emotional-intelligence/">Emotional Intelligence</a>
     </h2>
     <p class="excerpt">
-        I’m the poster child for imposter syndrome. At 34, I started writing code without any previous experience or education. I just arrive...
+        Relationships often end with a whimper, not a bang. It’s the small, seemingly insignificant efforts that build connection and earn tr...
     </p>
     <div>
         <small class="d-block text-muted">
             In <span class="catlist">
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
                 
                 <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
                 
                 </span>                   
         </small>
         <small class="text-muted">
-            Feb 02, 2022
+            Feb 20, 2022
         </small>
     </div>
     </div>
@@ -43,8 +45,33 @@
         <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
+                <a href="/fighting-imposter-syndrome/">
+                 <img class="w-100" src="http://localhost:4000/assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg" alt="The Way Out Of Imposter Syndrome" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+                        
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        Feb 02, 2022
+                    </small>
+                </div>
+            </div>
+        
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4">
                 <a href="/sober-love/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/christopher-beloch-P2fBIamIbQk-unsplash.jpg" alt="Sober Love" />
+                 <img class="w-100" src="/assets/images/christopher-beloch-P2fBIamIbQk-unsplash.jpg" alt="Sober Love" />
                 </a>
                 </div>
                                 
@@ -65,11 +92,11 @@
                 </div>
             </div>
         
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/dear-non-sober-people/">
-                 <img class="w-100" src="/assets/images/nikola-jovanovic-yW_fXww1raY-unsplash.jpg" alt="Dear Non-Sober People" />
+                <img class="w-100" src="/assets/images/nikola-jovanovic-yW_fXww1raY-unsplash.jpg" alt="Dear Non-Sober People" />
                 </a>
                 </div>
                                 
@@ -90,36 +117,13 @@
                 </div>
             </div>
         
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/dream-ridiculously/">
-                <img class="w-100" src="/assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" alt="Dream Ridiculously" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/dream-ridiculously/">Dream Ridiculously</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental-health">mental-health</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        Jan 11, 2022
-                    </small>
-                </div>
-            </div>
-        
     </div>
     
 </div>
     
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+ 
+
  
 
  
@@ -173,6 +177,38 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/emotional-intelligence/">Emotional Intelligence</a>
+	</h2>
+	<p class="excerpt">
+	   Relationships often end with a whimper, not a bang. It’s the small, seemingly insignificant efforts that build connection and earn trust.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 20, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/emotional-intelligence/">
+	<img class="w-100" src="/assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg" alt="Emotional Intelligence" />
+	</a>
+	</div>
+
+</div>
+        
         
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -288,36 +324,6 @@
 	<div class="col-md-3 pr-0 text-right">
 	<a href="/dream-ridiculously/">
 	<img class="w-100" src="/assets/images/randy-tarampi-U2eUlPEKIgU-unsplash.jpg" alt="Dream Ridiculously" />
-	</a>
-	</div>
-
-</div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/gift-of-a-broken-heart/">The Gift of Heartbreak</a>
-	</h2>
-	<p class="excerpt">
-	   Researcher and author Brené Brown (n.d.) contends, “A deep sense of love and belonging is an irreducible need of all men, women, and children. We are wired to love, to be loved, and t...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 05, 2022
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/gift-of-a-broken-heart/">
-	<img class="w-100" src="/assets/images/matthew-bennett-FHCaT8blG5k-unsplash.jpg" alt="The Gift of Heartbreak" />
 	</a>
 	</div>
 

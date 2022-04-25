@@ -1,4 +1,4 @@
-I"U<div class="container">
+I"�<div class="container">
     
 
     
@@ -8,13 +8,13 @@
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">Bold Writing</h1>
+                <h1 class="mb-3">Candid Writing</h1>
                 <p class="mb-3 lead">
-                    Candid experiences and perspectives. Owning struggles. Hard-earned life lessons.
+                    Thoughts, experiences, and perspectives. Owning struggles. Hard-earned insights.
                 </p>
                 <a href="/blog" class="btn btn-dark">Blog</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-sittin-2-min.JPG);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-sittin-2-min.jpg);">	
             </div>
         </div>
     </div>
@@ -23,12 +23,12 @@
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-standin-min.JPG);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-standin-min.jpg);">	
             </div>
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">Devoted Voice to Mental Health</h1>
+                <h1 class="mb-3">Positive Videos</h1>
                 <p class="mb-3 lead">
-                    A YouTuber promoting open discussions around mental health, addiction, sobriety, relationships, and therapy.
+                    Discussions around mental health, inner work, sobriety, relationships, and therapy.
                 </p>
                 <a href="/videos" class="btn btn-dark">Videos</a>
             </div>
@@ -41,26 +41,28 @@
  <div class="col-md-6">
      <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
  <div class="card border-0 mb-4 box-shadow">   
- <a href="/fighting-imposter-syndrome/">
- <div class="topfirstimage" style="background-image: url( /assets/images/braydon-anderson-wOHH-NUTvVc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+ <a href="/emotional-intelligence/">
+ <div class="topfirstimage" style="background-image: url( /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
  </a>
  <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
  <h2 class="h4 font-weight-bold">
- <a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
+ <a class="text-dark" href="/emotional-intelligence/">Emotional Intelligence</a>
  </h2>
  <p class="excerpt">
-     I’m the poster child for imposter syndrome. At 34, I started writing code without any previous experience or education. I just arrive...
+     Relationships often end with a whimper, not a bang. It’s the small, seemingly insignificant efforts that build connection and earn tr...
  </p>
  <div>
      <small class="d-block text-muted">
          In <span class="catlist">
+             
+             <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
              
              <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
              
              </span>                   
      </small>
      <small class="text-muted">
-         Feb 02, 2022
+         Feb 20, 2022
      </small>
  </div>
  </div>

@@ -1,4 +1,4 @@
-I"ô<div class="container">
+I"Ë<div class="container">
     
 {% if page.url == "/" %}
     
@@ -8,13 +8,13 @@
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">Bold Writing</h1>
+                <h1 class="mb-3">Candid Writing</h1>
                 <p class="mb-3 lead">
-                    Candid experiences and perspectives. Owning struggles. Hard-earned life lessons.
+                    Thoughts, experiences, and perspectives. Owning struggles. Hard-earned insights.
                 </p>
                 <a href="/blog" class="btn btn-dark">Blog</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/assets/images/jd-sittin-2-min.jpg);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-sittin-2-min.jpg);">	
             </div>
         </div>
     </div>
@@ -23,12 +23,12 @@
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/assets/images/jd-standin-min.jpg);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jd-standin-min.jpg);">	
             </div>
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <h1 class="mb-3">Devoted Voice to Mental Health</h1>
                 <p class="mb-3 lead">
-                    A YouTuber promoting open discussions around mental health, addiction, sobriety, relationships, and therapy.
+                    Promoting open discussions around mental health, addiction, sobriety, relationships, and therapy.
                 </p>
                 <a href="/videos" class="btn btn-dark">Videos</a>
             </div>
