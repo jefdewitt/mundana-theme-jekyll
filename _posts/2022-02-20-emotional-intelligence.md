@@ -16,7 +16,9 @@ But if your partner invalidates, avoids vulnerability, and is inconsiderate enou
 
 #### Emotional Intelligence
 
-Emotional intelligence gets thrown around a lot. But what does it actually mean? It means being intellectually curious about your partner's emotional well-being. It means not rushing to judgment or assumptions. It means taking a conscientious approach to your partner, and maintaining space for them to be listened to and understood.
+Emotional intelligence gets thrown around a lot. But what does it actually mean? 
+
+Emotional intelligence is being intellectually curious about your partner's emotional well-being. It means not rushing to judgment or assumptions. It means taking a conscientious approach to your partner, and maintaining space for them to be listened to and understood. It is understanding that there's room for your emotions and their emotions at the same time.
 
 One of my favorite lessons is by Dr. Steven Covey (Seven Habits of Highly Effective People). It's better to understand than to be understood.
 
