@@ -8,7 +8,7 @@ photo-credit: "Photo by https://unsplash.com/@cd163601"
 tags: []
 ---
 
-One of the best things that happened to me was facing my drug addiction. It nearly killed me. But I had to go through it to become who I am today.
+One of the best things that happened to me was facing my drug addiction. It nearly killed me. But it taught me lessons that kept me alive. Lessons that, fortunately, most people never have to learn.
 
 At age 30, I went to rehab (on Valentine's Day). At 32, I was divorced, unemployed, and living in an empty apartment on the outskirts of Las Vegas, Nevada--still not sober. But that year, I began to rebuild my life.
 
