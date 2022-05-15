@@ -2,7 +2,7 @@
 layout: post
 title:  "Emotional Communication Is Hard"
 author: jef
-categories: [ mental health ]
+categories: [ mental health, relationships ]
 image: assets/images/quino-al-4SNUcHPiC8c-unsplash.jpg
 photo-credit: "Photo by https://unsplash.com/@quinoal"
 tags: []
