@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Defining Expectations"
+title:  "Emotional Maturity"
 author: jef
 categories: [ relationships ]
 image: assets/images/belinda-fewings-2xRjWUA5D24-unsplash.jpg
