@@ -1,15 +1,4 @@
----
-title: "Blog"
-layout: default
-permalink: "/blog"
-pagination:
-    enabled: true
----
-
-<div class="container posts">
-
-    <h1>test {{paginator}} test</h1>
-    <h1>test {{page.url}} test</h1>
+I"%<div class="container posts">
     
 {% if page.url contains "/blog" %}
     
@@ -22,7 +11,7 @@ pagination:
         <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -57,7 +46,7 @@ pagination:
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -84,7 +73,7 @@ pagination:
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -111,7 +100,7 @@ pagination:
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -167,7 +156,6 @@ pagination:
         
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         <h1>test {{paginator}} test</h1>
-        <h1>test {{page.url}} test</h1>
 
         {% for post in paginator.posts %}
             <h1>test {{site.baseurl}} test</h1>
@@ -178,31 +166,31 @@ pagination:
         
         <div class="mt-5">
          <!-- Pagination links -->
-         {% if paginator.total_pages > 1 %}
-         <div class="pagination">
-           {% if paginator.previous_page %}
-             <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-           {% else %}
-             <span>&laquo; Prev</span>
-           {% endif %}
-         
-           {% for page in (1..paginator.total_pages) %}
-             {% if page == paginator.page %}
-               <em>{{ page }}</em>
-             {% elsif page == 1 %}
-               <a href="{{ '/' | relative_url }}">{{ page }}</a>
-             {% else %}
-               <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-             {% endif %}
-           {% endfor %}
-         
-           {% if paginator.next_page %}
-             <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-           {% else %}
-             <span>Next &raquo;</span>
-           {% endif %}
-         </div>
-         {% endif %}  
+            {% if paginator.total_pages &gt; 1 %}
+            <ul class="pagination"> 
+              {% if paginator.previous_page %}
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+              {% else %}
+                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+              {% endif %}
+
+              {% for page in (1..paginator.total_pages) %}
+                {% if page == paginator.page %}
+                <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
+                {% elsif page == 1 %}
+                <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+                {% else %}
+                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                {% endif %}
+              {% endfor %}
+
+              {% if paginator.next_page %}
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+              {% else %}
+                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+              {% endif %}
+            </ul>
+            {% endif %}      
         </div>
         
     </div>
@@ -216,3 +204,4 @@ pagination:
 
 
 </div>
+:ET

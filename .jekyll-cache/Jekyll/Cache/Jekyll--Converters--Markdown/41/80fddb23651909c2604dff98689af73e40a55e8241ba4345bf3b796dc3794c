@@ -1,4 +1,7 @@
-I"í<<div class="container posts">
+I"•A<div class="container posts">
+
+    <h1>test {"page"=&gt;1, "per_page"=&gt;5, "posts"=&gt;[#&lt;Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts&gt;], "total_posts"=&gt;20, "total_pages"=&gt;4, "previous_page"=&gt;nil, "previous_page_path"=&gt;nil, "next_page"=&gt;2, "next_page_path"=&gt;"/blog/page2/"} test</h1>
+    <h1>test /blog test</h1>
     
 
     
@@ -191,9 +194,11 @@
     <div class="col-md-8 main-loop">
         
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-        
+        <h1>test {"page"=&gt;1, "per_page"=&gt;5, "posts"=&gt;[#&lt;Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts&gt;], "total_posts"=&gt;20, "total_pages"=&gt;4, "previous_page"=&gt;nil, "previous_page_path"=&gt;nil, "next_page"=&gt;2, "next_page_path"=&gt;"/blog/page2/"} test</h1>
+        <h1>test /blog test</h1>
 
         
+            <h1>test  test</h1>
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
@@ -224,6 +229,7 @@
 </div>
         
         
+            <h1>test  test</h1>
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
@@ -254,6 +260,7 @@
 </div>
         
         
+            <h1>test  test</h1>
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
@@ -284,6 +291,7 @@
 </div>
         
         
+            <h1>test  test</h1>
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
@@ -318,6 +326,7 @@
 </div>
         
         
+            <h1>test  test</h1>
         
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
@@ -353,35 +362,35 @@
         
         <div class="mt-5">
          <!-- Pagination links -->
-            
-            <ul class="pagination"> 
-              
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              
-
-              
-                
-                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/blog/2/">2</a></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/blog/3/">3</a></li>
-                
-              
-                
-                <li class="page-item"><a class="page-link" href="/blog/4/">4</a></li>
-                
-              
-
-              
-                <li class="page-item"><a class="page-link" href="/blog/2/">Next &raquo;</a></li>
-              
-            </ul>
-                  
+         
+         <div class="pagination">
+           
+             <span>&laquo; Prev</span>
+           
+         
+           
+             
+               <em>1</em>
+             
+           
+             
+               <a href="/blog/page2/">2</a>
+             
+           
+             
+               <a href="/blog/page3/">3</a>
+             
+           
+             
+               <a href="/blog/page4/">4</a>
+             
+           
+         
+           
+             <a href="/blog/page2/">Next &raquo;</a>
+           
+         </div>
+           
         </div>
         
     </div>

@@ -1,12 +1,4 @@
----
-title: "Blog"
-layout: default
-permalink: "/blog"
-pagination:
-    enabled: true
----
-
-<div class="container posts">
+I" #<div class="container posts">
 
     <h1>test {{paginator}} test</h1>
     <h1>test {{page.url}} test</h1>
@@ -22,7 +14,7 @@ pagination:
         <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} /{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"&gt;&lt;/div&gt;     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -57,7 +49,7 @@ pagination:
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 &lt;img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -84,7 +76,7 @@ pagination:
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -111,7 +103,7 @@ pagination:
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}                
@@ -178,7 +170,7 @@ pagination:
         
         <div class="mt-5">
          <!-- Pagination links -->
-         {% if paginator.total_pages > 1 %}
+         {% if paginator.total_pages &gt; 1 %}
          <div class="pagination">
            {% if paginator.previous_page %}
              <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
@@ -216,3 +208,4 @@ pagination:
 
 
 </div>
+:ET
