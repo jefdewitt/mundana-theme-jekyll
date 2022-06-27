@@ -1,9 +1,9 @@
-I"…%<div class="container posts">
+I"%<div class="container posts">
 
     <h1>test {{paginator}} test</h1>
     <h1>test {{page.url}} test</h1>
     
-{% if page.url contains "/blog" %}
+{% if page.url == "/blog" %}
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
@@ -160,9 +160,9 @@
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         <h1>test {{paginator}} test</h1>
         <h1>test {{page.url}} test</h1>
+        <h1>test {{site.paginate_path}} test</h1>
 
         {% for post in paginator.posts %}
-            <h1>test {{site.baseurl}} test</h1>
         
             {% include main-loop-card.html %}
         
