@@ -1,99 +1,99 @@
-I"�X<div class="container posts">
+I"J\<div class="container posts">
 
-    <h1>test {"page"=&gt;1, "per_page"=&gt;10, "posts"=&gt;[#&lt;Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-03-19-facing-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-03-06-win-win-outcomes-display-eq.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-02-20-emotional-intelligence.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-02-02-fighting-imposter-syndrome.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-01-28-sober-love.md collection=posts&gt;], "total_posts"=&gt;20, "total_pages"=&gt;2, "previous_page"=&gt;nil, "previous_page_path"=&gt;nil, "next_page"=&gt;2, "next_page_path"=&gt;"/blog/page2/"} test</h1>
-    <h1>test /blog test</h1>
+    <!-- <h1>test {"page"=>1, "per_page"=>10, "posts"=>[#<Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts>, #<Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts>, #<Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts>, #<Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts>, #<Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts>, #<Jekyll::Document _posts/2022-03-19-facing-addiction.md collection=posts>, #<Jekyll::Document _posts/2022-03-06-win-win-outcomes-display-eq.md collection=posts>, #<Jekyll::Document _posts/2022-02-20-emotional-intelligence.md collection=posts>, #<Jekyll::Document _posts/2022-02-02-fighting-imposter-syndrome.md collection=posts>, #<Jekyll::Document _posts/2022-01-28-sober-love.md collection=posts>], "total_posts"=>20, "total_pages"=>2, "previous_page"=>nil, "previous_page_path"=>nil, "next_page"=>2, "next_page_path"=>"/blog/page2/"} test</h1>
+    <h1>test /blog test</h1> -->
     
+    
+        
+    <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+    <div class="row remove-site-content-margin">
+        
+        <!-- latest post -->
+        
+        <div class="col-md-6">
+            <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
+        <div class="card border-0 mb-4 box-shadow">   
+        <a href="/well-being-theory/">
+        <div class="topfirstimage" style="background-image: url( /assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+        </a>
+        <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+        <h2 class="h4 font-weight-bold">
+        <a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
+        </h2>
+        <p class="excerpt">
+            Dr. Martin Seligman is someone you’ve probably heard me mention or write about before. He’s the father of positive psychology and a b...
+        </p>
+        <div>
+            <small class="d-block text-muted">
+                In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+                    
+                    </span>                   
+            </small>
+            <small class="text-muted">
+                Jun 01, 2022
+            </small>
+        </div>
+        </div>
+        </div>
+        </div>
+        
+        <div class="col-md-6">
+            
+            <h4 class="font-weight-bold spanborder"><span>Recent Posts</span></h4>
 
-    
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
-    
-    <!-- latest post -->
-    
-    <div class="col-md-6">
-        <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
-    <div class="card border-0 mb-4 box-shadow">   
-    <a href="/well-being-theory/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
-    </h2>
-    <p class="excerpt">
-        Dr. Martin Seligman is someone you’ve probably heard me mention or write about before. He’s the father of positive psychology and a b...
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            In <span class="catlist">
-                
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
-                
-                </span>                   
-        </small>
-        <small class="text-muted">
-            Jun 01, 2022
-        </small>
-    </div>
-    </div>
-    </div>
-    </div>
-    
-    <div class="col-md-6">
-        
-        <h4 class="font-weight-bold spanborder"><span>Recent Posts</span></h4>
-
-        <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/emotional-maturity/">
-                 <img class="w-100" src="http://localhost:4000/assets/images/belinda-fewings-2xRjWUA5D24-unsplash.jpg" alt="Emotional Maturity" />
-                </a>
+            <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+                    
+                    <div class="col-md-4">
+                    <a href="/emotional-maturity/">
+                    <img class="w-100" src="http://localhost:4000/assets/images/belinda-fewings-2xRjWUA5D24-unsplash.jpg" alt="Emotional Maturity" />
+                    </a>
+                    </div>
+                                    
+                    <div>
+                        <h2 class="mb-2 h6 font-weight-bold">
+                        <a class="text-dark" href="/emotional-maturity/">Emotional Maturity</a>
+                        </h2>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                            
+                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+                            
+                            </span>                   
+                        </small>
+                        <small class="text-muted">
+                            May 18, 2022
+                        </small>
+                    </div>
                 </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/emotional-maturity/">Emotional Maturity</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        May 18, 2022
-                    </small>
+            
+            <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                    
+                    <div class="col-md-4">
+                    <a href="/defining-expectations/">
+                    <img class="w-100" src="/assets/images/romain-vignes-ywqa9IZB-dU-unsplash.jpg" alt="Defining Expectations" />
+                    </a>
+                    </div>
+                                    
+                    <div>
+                        <h2 class="mb-2 h6 font-weight-bold">
+                        <a class="text-dark" href="/defining-expectations/">Defining Expectations</a>
+                        </h2>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                            
+                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
+                            
+                            </span>                   
+                        </small>
+                        <small class="text-muted">
+                            May 05, 2022
+                        </small>
+                    </div>
                 </div>
-            </div>
-        
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
-                
-                <div class="col-md-4">
-                <a href="/defining-expectations/">
-                 <img class="w-100" src="/assets/images/romain-vignes-ywqa9IZB-dU-unsplash.jpg" alt="Defining Expectations" />
-                </a>
-                </div>
-                                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/defining-expectations/">Defining Expectations</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-                        
-                        </span>                   
-                    </small>
-                    <small class="text-muted">
-                        May 05, 2022
-                    </small>
-                </div>
-            </div>
-        
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
+            
+            <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
                 <a href="/two-thoughts-on-addiction/">
@@ -121,86 +121,86 @@
                     </small>
                 </div>
             </div>
-        
-    </div>
-    
-</div>
-    
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-    <div class="pl-4 pr-0 h-100 tofront">
-        <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">Talking About Sobriety In The Workplace</h1>
-                <p class="mb-3 lead">
-                    According to the National Institutes of Health, ten percent of Americans have struggled with substance abuse at some point in their l...
-                </p>
-                <a href="/not-hiding-sobriety/" class="btn btn-dark">Read More</a>
-            </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg);">	
-            </div>
+            
         </div>
+        
     </div>
-</div> 
-
-
-
- <!-- endif page url is /blog -->
+        
+    <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+     
+        
+        <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+            <div class="pl-4 pr-0 h-100 tofront">
+                <div class="row justify-content-between">
+                    <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                        <h1 class="mb-3">Talking About Sobriety In The Workplace</h1>
+                        <p class="mb-3 lead">
+                            According to the National Institutes of Health, ten percent of Americans have struggled with substance abuse at some point in their l...
+                        </p>
+                        <a href="/not-hiding-sobriety/" class="btn btn-dark">Read More</a>
+                    </div>
+                    <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/boban-ninkovic-SZgtZymgxE4-unsplash.jpg);">	
+                    </div>
+                </div>
+            </div>
+        </div> 
+        
     
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
-    
-<div class="row mt-3">
-   
-    <div class="col-md-8 main-loop">
-        
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-        <h1>test {"page"=&gt;1, "per_page"=&gt;10, "posts"=&gt;[#&lt;Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-03-19-facing-addiction.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-03-06-win-win-outcomes-display-eq.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-02-20-emotional-intelligence.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-02-02-fighting-imposter-syndrome.md collection=posts&gt;, #&lt;Jekyll::Document _posts/2022-01-28-sober-love.md collection=posts&gt;], "total_posts"=&gt;20, "total_pages"=&gt;2, "previous_page"=&gt;nil, "previous_page_path"=&gt;nil, "next_page"=&gt;2, "next_page_path"=&gt;"/blog/page2/"} test</h1>
-        <h1>test /blog test</h1>
-        <h1>test /blog/page:num/ test</h1>
 
+     <!-- endif page url is /blog -->
         
+    <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+    <div class="row mt-3">
+    
+        <div class="col-md-8 main-loop">
+            
+            <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+            <!-- <h1>test {"page"=>1, "per_page"=>10, "posts"=>[#<Jekyll::Document _posts/2022-06-01-well-being-theory.md collection=posts>, #<Jekyll::Document _posts/2022-05-18-emotional-maturity.md collection=posts>, #<Jekyll::Document _posts/2022-05-05-defining-expectations.md collection=posts>, #<Jekyll::Document _posts/2022-04-20-two-thoughts-on-addiction.md collection=posts>, #<Jekyll::Document _posts/2022-04-04-emotional-communication.md collection=posts>, #<Jekyll::Document _posts/2022-03-19-facing-addiction.md collection=posts>, #<Jekyll::Document _posts/2022-03-06-win-win-outcomes-display-eq.md collection=posts>, #<Jekyll::Document _posts/2022-02-20-emotional-intelligence.md collection=posts>, #<Jekyll::Document _posts/2022-02-02-fighting-imposter-syndrome.md collection=posts>, #<Jekyll::Document _posts/2022-01-28-sober-love.md collection=posts>], "total_posts"=>20, "total_pages"=>2, "previous_page"=>nil, "previous_page_path"=>nil, "next_page"=>2, "next_page_path"=>"/blog/page2/"} test</h1>
+            <h1>test /blog test</h1>
+            <h1>test /blog/page:num/ test</h1> -->
+
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
@@ -227,10 +227,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/emotional-maturity/">Emotional Maturity</a>
@@ -257,10 +257,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/defining-expectations/">Defining Expectations</a>
@@ -287,10 +287,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/two-thoughts-on-addiction/">Two Thoughts On Time</a>
@@ -321,10 +321,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/emotional-communication/">Emotional Communication Is Hard</a>
@@ -353,10 +353,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/facing-addiction/">Facing Addiction One Drug At A Time</a>
@@ -385,10 +385,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/win-win-outcomes-display-eq/">Win-Win Outcomes Display EQ</a>
@@ -417,10 +417,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/emotional-intelligence/">Emotional Intelligence</a>
@@ -449,10 +449,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/fighting-imposter-syndrome/">The Way Out Of Imposter Syndrome</a>
@@ -479,10 +479,10 @@
 	</div>
 
 </div>
-        
-        
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
+            
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 	<h2 class="mb-1 h4 font-weight-bold">
 	<a class="text-dark" href="/sober-love/">Sober Love</a>
@@ -509,38 +509,38 @@
 	</div>
 
 </div>
-        
-        
-        
-        <div class="mt-5">
-         <!-- Pagination links -->
             
-            <ul class="pagination"> 
-              
-                <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
-              
+            
+            
+            <div class="mt-5">
+            <!-- Pagination links -->
+                
+                <ul class="pagination"> 
+                
+                    <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
+                
 
-              
                 
-                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+                    
+                    <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+                    
                 
-              
+                    
+                    <li class="page-item"><a class="page-link" href="/blog/page2/">2</a></li>
+                    
                 
-                <li class="page-item"><a class="page-link" href="/blog/page2/">2</a></li>
-                
-              
 
-              
-                <li class="page-item"><a class="page-link" href="/blog/page2/">Next &raquo;</a></li>
-              
-            </ul>
-                  
+                
+                    <li class="page-item"><a class="page-link" href="/blog/page2/">Next &raquo;</a></li>
+                
+                </ul>
+                      
+            </div>
+            
         </div>
         
-    </div>
-    
-    <div class="col-md-4">
-        <div class="sticky-top sticky-top-offset">
+        <div class="col-md-4">
+            <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
                         
@@ -606,11 +606,9 @@
            
     </ol>
 </div>     
+        </div>
+        
     </div>
-    
-</div>
-
-
 
 </div>
 :ET
