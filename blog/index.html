@@ -8,9 +8,6 @@ pagination:
 ---
 
 <div class="container posts">
-
-    <!-- <h1>test {{paginator}} test</h1>
-    <h1>test {{page.url}} test</h1> -->
     
     {% if page.url == "/blog" %}
         
@@ -157,8 +154,6 @@ pagination:
         </div> 
         {% endif %}
     {% endfor %}
-
-    {% endif %} <!-- endif page url is /blog -->
         
     <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
         
@@ -167,9 +162,6 @@ pagination:
         <div class="col-md-8 main-loop">
             
             <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-            <!-- <h1>test {{paginator}} test</h1>
-            <h1>test {{page.url}} test</h1>
-            <h1>test {{site.paginate_path}} test</h1> -->
 
             {% for post in paginator.posts %}
             
@@ -213,5 +205,7 @@ pagination:
         </div>
         
     </div>
+
+    {% endif %} <!-- endif page url is /blog -->
 
 </div>
