@@ -1,13 +1,5 @@
----
-title: "Jef DeWitt | Software Engineer | Writer"
-layout: default
-pagination:
-enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
+I"R<div class="container">
 
-
-<div class="container">
     <!-- {% if paginator.page != 1 %} -->
         {% include custom/pagination %}
     <!-- {% endif %} -->
@@ -54,3 +46,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     <!--endif page url is / -->
 
 </div>
+:ET

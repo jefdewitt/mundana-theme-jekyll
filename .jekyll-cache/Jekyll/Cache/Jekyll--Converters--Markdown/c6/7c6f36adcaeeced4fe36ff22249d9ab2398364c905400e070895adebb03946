@@ -1,5 +1,4 @@
-I"l;<div class="container">
-
+I"m;<div class="container">
     <!--  -->
         <div class="row mt-3">
 
@@ -163,7 +162,7 @@
 
     <!--  -->
 
-    <div class="row remove-site-content-margin">
+    <!-- <div class="row remove-site-content-margin"> -->
 
         <!-- <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
             <div class="pl-4 pr-0 h-100 tofront">
@@ -202,6 +201,5 @@
     <!--  -->
     <!--endif page url is / -->
 
-</div>
 </div>
 :ET

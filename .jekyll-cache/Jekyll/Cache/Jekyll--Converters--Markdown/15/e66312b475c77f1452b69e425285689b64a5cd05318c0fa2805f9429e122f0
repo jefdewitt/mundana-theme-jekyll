@@ -1,12 +1,13 @@
-I"P<div class="container">
+I"l<div class="container">
 
+    {{ paginator.page %}}
     <!-- {% if paginator.page != 1 %} -->
         {% include custom/pagination %}
     <!-- {% endif %} -->
 
     <!-- {% if page.url == "/" %} -->
 
-    <div class="row remove-site-content-margin">
+    <!-- <div class="row remove-site-content-margin"> -->
 
         <!-- <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
             <div class="pl-4 pr-0 h-100 tofront">
@@ -45,6 +46,5 @@
     <!-- {% endif %} -->
     <!--endif page url is / -->
 
-</div>
 </div>
 :ET
