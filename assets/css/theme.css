@@ -929,7 +929,7 @@ video {
 .site-banner-text {
 	z-index: 1;
 	position: absolute;
-	bottom: 5em;
+	bottom: 10em;
 }
 
 @media (min-width: 768px) {
@@ -938,6 +938,7 @@ video {
 		display: flex;
 		flex-direction: column;
 		align-items: end;
+		bottom: 5em;
 	}
 }
 
