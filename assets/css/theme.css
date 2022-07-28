@@ -914,14 +914,6 @@ video {
 		width: 100%;
 		margin-left: 0px;
 	}
-
-	.site-banner-text {
-		right: 0;
-		display: flex;
-		flex-direction: column;
-		align-items: end;
-		/* bottom: 3em; */
-	}
 }
 
 .site-banner-img::before {
@@ -937,7 +929,16 @@ video {
 .site-banner-text {
 	z-index: 1;
 	position: absolute;
-	bottom: 3em;
+	bottom: 5em;
+}
+
+@media (min-width: 768px) {
+	.site-banner-text {
+		right: 0;
+		display: flex;
+		flex-direction: column;
+		align-items: end;
+	}
 }
 
 .site-banner-text p:last-of-type {
@@ -966,7 +967,7 @@ video {
     letter-spacing: 0px;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
 	.site-banner-img-text-wrapper {
 		align-items: flex-start;
 		margin-left: 5rem;
@@ -976,4 +977,4 @@ video {
 		background-position: inherit;
 		display: none;
 	}
-}
+} */
