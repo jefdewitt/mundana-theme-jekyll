@@ -42,22 +42,23 @@
 
 </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+<body class="{% if page.url == '/' %} homefirstpage {% endif %}">
 
     {% if page.url == "/" %}
-
-        <div class="site-banner-img-text-wrapper">
-            <div class="site-banner-img"></div>
-            <video width="320" height="240" controls>
-                <source src="{{site.baseurl}}/assets/videos/IMG_7041.mp4" type="video/mp4">
+        <div id="banner-vid">
+            <video controls autoplay muted loop>
+                <source src="{{site.baseurl}}/assets/videos/website-vid-take-2-1080p-HD.mp4" type="video/mp4">
                 <!-- <source src="movie.ogg" type="video/ogg"> -->
-              Your browser does not support the video tag.
-              </video>
-            <div class="site-banner-text light-text-with-shadow container">
-                <h1>Jef DeWitt</h1>
-                <p>Relationships | Inner Work | Recovery</p>
-                <a class="link-button" href="/biography.html">Biography <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
+                Your browser does not support the video tag.
+            </video>
+            <!-- <div class="site-banner-img-text-wrapper">
+                <div class="site-banner-img"></div> -->
+                <div class="site-banner-text light-text-with-shadow container">
+                    <h1>Jef DeWitt</h1>
+                    <p>Relationships | Inner Work | Recovery</p>
+                    <a class="link-button" href="/biography.html">Biography <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                </div>
+            <!-- </div> -->
         </div>
 
     {% endif %}

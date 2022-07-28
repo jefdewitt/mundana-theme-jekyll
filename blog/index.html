@@ -158,11 +158,13 @@ pagination:
     <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
         
     <div class="row mt-3">
-    
-        <div class="col-md-8 main-loop">
+
+        {% if page.url != "/" %} 
+        
+        <div class="col-md-8 main-loop">    
             
             <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-
+    
             {% for post in paginator.posts %}
             
                 {% include main-loop-card.html %}
@@ -178,17 +180,17 @@ pagination:
                 {% else %}
                     <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
                 {% endif %}
-
+    
                 {% for page in (1..paginator.total_pages) %}
                     {% if page == paginator.page %}
                     <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                     {% elsif page == 1 %}
-                    <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+                    <li class="page-item"><a class="page-link" href="{{site.baseurl}}/blog/">{{ page }}</a></li>
                     {% else %}
                     <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
                     {% endif %}
                 {% endfor %}
-
+    
                 {% if paginator.next_page %}
                     <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
                 {% else %}
@@ -203,6 +205,8 @@ pagination:
         <div class="col-md-4">
             {% include sidebar-featured.html %}    
         </div>
+    
+        {% endif %}
         
     </div>
 
