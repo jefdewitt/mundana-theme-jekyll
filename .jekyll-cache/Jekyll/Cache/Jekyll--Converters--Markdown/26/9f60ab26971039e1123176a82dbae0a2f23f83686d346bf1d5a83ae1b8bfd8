@@ -1,6 +1,22 @@
-I"t8<div class="container">
+I"L6<div class="container">
 
     
+
+    <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+        <div class="pl-4 pr-0 h-100 tofront">
+            <div class="row justify-content-between">
+                <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                    <h1 class="mb-3">Building The Positivity</h1>
+                    <p class="mb-3 lead">
+                        Positivity equals resilience. In my struggle with substance abuse, I leaned into positivity as the cornerstone of my sobriety; non-toxic, strategic, resilient positivity. This site is a resource of common sense oriented, actionable content on mental health, relationships, and of course, sobriety.
+                    </p>
+                    <a href="/biography" class="btn btn-dark">Learn More</a>
+                </div>
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jef-stuntin-min.JPG);">
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="row mt-3">
 
@@ -9,16 +25,16 @@
             <!-- latest post -->
             <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
             <div class="card border-0 mb-4 box-shadow">
-                <a href="/well-being-theory/">
-                    <div class="topfirstimage" style="background-image: url(assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg); height: 200px;
+                <a href="/filling-the-void-of-addiction/">
+                    <div class="topfirstimage" style="background-image: url(assets/images/dan-meyers-BfLlhR_ccoY-unsplash.jpg); height: 200px;
                         background-size: cover; background-repeat: no-repeat; background-position: center;"></div>
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="h4 font-weight-bold">
-                        <a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
+                        <a class="text-dark" href="/filling-the-void-of-addiction/">Filling The Void Of Addiction</a>
                     </h2>
                     <p class="excerpt">
-                        Dr. Martin Seligman is someone you’ve probably heard me mention or write about before. He’s the father of positive psychology and a b...
+                          I was never addicted to one thing, I was addicted to filling a void within myself with things other than my own love.  – Yung Pueblo
                     </p>
                     <div>
                         <small class="d-block text-muted">
@@ -26,10 +42,12 @@
                                 
                                 <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
                                 
+                                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                                
                             </span>
                         </small>
                         <small class="text-muted">
-                            Jun 01, 2022
+                            Jun 17, 2022
                         </small>
                     </div>
                 </div>
@@ -141,40 +159,6 @@
         </div>
 
         <!-- <div class="row remove-site-content-margin"> -->
-
-        <!-- <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-            <div class="pl-4 pr-0 h-100 tofront">
-                <div class="row justify-content-between">
-                    <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                        <h1 class="mb-3">Candid Writing</h1>
-                        <p class="mb-3 lead">
-                            Thoughts, experiences, and perspectives. Owning struggles. Hard-earned insights.
-                        </p>
-                        <a href="/blog" class="btn btn-dark">Blog</a>
-                    </div>
-                    <div class="col-md-6 d-none d-md-block pr-0"
-                        style="background-size:cover;background-image:url(/assets/images/jd-sittin-2-min.jpg);">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-            <div class="pl-4 pr-0 h-100 tofront">
-                <div class="row justify-content-between">
-                    <div class="col-md-6 d-none d-md-block pr-0"
-                        style="background-size:cover;background-image:url(/assets/images/jd-standin-min.jpg);">
-                    </div>
-                    <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                        <h1 class="mb-3">Positive Videos</h1>
-                        <p class="mb-3 lead">
-                            Discussions around mental health, inner work, sobriety, relationships, and therapy.
-                        </p>
-                        <a href="/videos" class="btn btn-dark">Videos</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
 
     </div>
 

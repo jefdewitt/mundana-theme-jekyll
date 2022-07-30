@@ -1,4 +1,4 @@
-I"A<div class="container posts">
+I"=A<div class="container posts">
     
     
         
@@ -10,15 +10,15 @@
         <div class="col-md-6">
             <h4 class="font-weight-bold spanborder"><span>Latest Post</span></h4>
         <div class="card border-0 mb-4 box-shadow">   
-        <a href="/well-being-theory/">
-        <div class="topfirstimage" style="background-image: url( /assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
+        <a href="/filling-the-void-of-addiction/">
+        <div class="topfirstimage" style="background-image: url( /assets/images/dan-meyers-BfLlhR_ccoY-unsplash.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;  background-position: center;"></div>     
         </a>
         <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
         <h2 class="h4 font-weight-bold">
-        <a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
+        <a class="text-dark" href="/filling-the-void-of-addiction/">Filling The Void Of Addiction</a>
         </h2>
         <p class="excerpt">
-            Dr. Martin Seligman is someone you’ve probably heard me mention or write about before. He’s the father of positive psychology and a b...
+              I was never addicted to one thing, I was addicted to filling a void within myself with things other than my own love.  – Yung Pueblo
         </p>
         <div>
             <small class="d-block text-muted">
@@ -26,10 +26,12 @@
                     
                     <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
                     
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+                    
                     </span>                   
             </small>
             <small class="text-muted">
-                Jun 01, 2022
+                Jun 17, 2022
             </small>
         </div>
         </div>
@@ -43,8 +45,33 @@
             <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
                     
                     <div class="col-md-4">
+                    <a href="/well-being-theory/">
+                    <img class="w-100" src="http://localhost:4000/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg" alt="Well Being Theory" />
+                    </a>
+                    </div>
+                                    
+                    <div>
+                        <h2 class="mb-2 h6 font-weight-bold">
+                        <a class="text-dark" href="/well-being-theory/">Well Being Theory</a>
+                        </h2>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                            
+                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+                            
+                            </span>                   
+                        </small>
+                        <small class="text-muted">
+                            Jun 01, 2022
+                        </small>
+                    </div>
+                </div>
+            
+            <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+                    
+                    <div class="col-md-4">
                     <a href="/emotional-maturity/">
-                    <img class="w-100" src="http://localhost:4000/assets/images/belinda-fewings-2xRjWUA5D24-unsplash.jpg" alt="Emotional Maturity" />
+                    <img class="w-100" src="/assets/images/belinda-fewings-2xRjWUA5D24-unsplash.jpg" alt="Emotional Maturity" />
                     </a>
                     </div>
                                     
@@ -65,56 +92,27 @@
                     </div>
                 </div>
             
-            <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
-                    
-                    <div class="col-md-4">
-                    <a href="/defining-expectations/">
-                    <img class="w-100" src="/assets/images/romain-vignes-ywqa9IZB-dU-unsplash.jpg" alt="Defining Expectations" />
-                    </a>
-                    </div>
-                                    
-                    <div>
-                        <h2 class="mb-2 h6 font-weight-bold">
-                        <a class="text-dark" href="/defining-expectations/">Defining Expectations</a>
-                        </h2>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-                            
-                            </span>                   
-                        </small>
-                        <small class="text-muted">
-                            May 05, 2022
-                        </small>
-                    </div>
-                </div>
-            
             <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
                 
                 <div class="col-md-4">
-                <a href="/two-thoughts-on-addiction/">
-                <img class="w-100" src="/assets/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg" alt="Two Thoughts On Time" />
+                <a href="/defining-expectations/">
+                <img class="w-100" src="/assets/images/romain-vignes-ywqa9IZB-dU-unsplash.jpg" alt="Defining Expectations" />
                 </a>
                 </div>
                                 
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/two-thoughts-on-addiction/">Two Thoughts On Time</a>
+                    <a class="text-dark" href="/defining-expectations/">Defining Expectations</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
-                        
                         <a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
                         
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        Apr 20, 2022
+                        May 05, 2022
                     </small>
                 </div>
             </div>
@@ -124,6 +122,8 @@
     </div>
         
     <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+     
+        
      
         
      
@@ -192,6 +192,38 @@
             
             <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
     
+            
+            
+                <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/filling-the-void-of-addiction/">Filling The Void Of Addiction</a>
+	</h2>
+	<p class="excerpt">
+	     I was never addicted to one thing, I was addicted to filling a void within myself with things other than my own love.  – Yung Pueblo
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#addiction">addiction</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jun 17, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/filling-the-void-of-addiction/">
+	<img class="w-100" src="/assets/images/dan-meyers-BfLlhR_ccoY-unsplash.jpg" alt="Filling The Void Of Addiction" />
+	</a>
+	</div>
+
+</div>
+            
             
             
                 <div class="mb-5 d-flex justify-content-between main-loop-card">
@@ -318,38 +350,6 @@
             
             
             
-                <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/emotional-communication/">Emotional Communication Is Hard</a>
-	</h2>
-	<p class="excerpt">
-	   I grew up not knowing how to talk about a lot of things. Especially feelings.
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#mental health">mental health</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#relationships">relationships</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Apr 04, 2022
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/emotional-communication/">
-	<img class="w-100" src="/assets/images/quino-al-4SNUcHPiC8c-unsplash.jpg" alt="Emotional Communication Is Hard" />
-	</a>
-	</div>
-
-</div>
-            
-            
-            
             <div class="mt-5">
             <!-- Pagination links -->
                 
@@ -373,6 +373,10 @@
                 
                     
                     <li class="page-item"><a class="page-link" href="/blog/page4/">4</a></li>
+                    
+                
+                    
+                    <li class="page-item"><a class="page-link" href="/blog/page5/">5</a></li>
                     
                 
     
