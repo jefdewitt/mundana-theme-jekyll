@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Build The Positivity"
-layout: default
-pagination:
-enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"<div class="container">
 
     {% if page.url == "/" %}
 
@@ -21,8 +12,7 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                     </p>
                     <a href="/biography" class="btn btn-dark">Learn More</a>
                 </div>
-                <div class="col-md-6 d-none d-md-block pr-0"
-                    style="background-size:cover;background-image:url(/assets/images/jef-stuntin-min.JPG);">
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jef-stuntin-min.JPG);">
                 </div>
             </div>
         </div>
@@ -40,3 +30,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     <!-- endif page url is / -->
 
 </div>
+:ET

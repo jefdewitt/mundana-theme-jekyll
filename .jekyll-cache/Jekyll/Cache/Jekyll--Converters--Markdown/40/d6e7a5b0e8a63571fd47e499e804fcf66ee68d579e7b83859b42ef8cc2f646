@@ -1,13 +1,4 @@
----
-title: "Jef DeWitt | Build The Positivity"
-layout: default
-pagination:
-enabled: true
-description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
----
-
-
-<div class="container">
+I"$<div class="container">
 
     {% if page.url == "/" %}
 
@@ -17,12 +8,11 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
                 <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                     <h1 class="mb-3">Building The Positivity</h1>
                     <p class="mb-3 lead">
-                        Positivity equals resilience. In my struggle with substance abuse, I leaned into positivity as the cornerstone of my sobriety; non-toxic, strategic, resilient positivity. I began with believing I could change. And that taught me a truth: strength begins with vulnerability...
+                        Positivity equals resilience. In my struggle with substance abuse, I leaned into positivity as the cornerstone of my sobriety; non-toxic, strategic, resilient positivity. I had to begin with believing I could change. And that taught me a truth: strength begins with vulnerability...
                     </p>
                     <a href="/biography" class="btn btn-dark">Learn More</a>
                 </div>
-                <div class="col-md-6 d-none d-md-block pr-0"
-                    style="background-size:cover;background-image:url(/assets/images/jef-stuntin-min.JPG);">
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/jef-stuntin-min.JPG);">
                 </div>
             </div>
         </div>
@@ -40,3 +30,4 @@ description: "A shoehorned Jekyll theme developed by Sal @wowthemesnet."
     <!-- endif page url is / -->
 
 </div>
+:ET
